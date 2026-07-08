@@ -74,6 +74,19 @@ genera da SRD 5.1 marcando le parti «da verificare» (vedi `CLAUDE.md`).
 
 Puoi anche invocare un singolo agente col tool Task per rifinire una parte (es. solo gli incontri).
 
+### Mega-campagne (scala tipo *The Enemy Within*)
+
+Per campagne enormi e ramificate usa `/genera-mega-campagna`: non scrive tutto in un colpo, ma costruisce
+la **macro-struttura** (Parti → Capitoli), poi **itera capitolo per capitolo** con un controllo di
+coerenza a ogni passo, salvando lo stato in `INDEX.md` così puoi **fermarti e riprendere**.
+
+```
+/genera-mega-campagna Epica in 3 parti / 9 capitoli, 4 PG dal liv. 1 al 15, tema: cospirazione di culti sul confine
+```
+
+> ⚠️ Realismo: una mega-campagna significa **decine/centinaia di invocazioni** di agenti spalmate su più
+> round — spesa e tempo reali. Il comando genera per default struttura + primi capitoli, poi si ferma.
+
 A mano, senza orchestratore:
 
 1. Copia lo scheletro: `cp -r campaigns/_template campaigns/nome-campagna`
