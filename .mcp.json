@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dndbeyond": {
+      "command": "node",
+      "args": ["ddb-mcp/dist/index.js"]
+    }
+  }
+}

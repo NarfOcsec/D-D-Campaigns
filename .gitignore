@@ -1,0 +1,12 @@
+# Node
+node_modules/
+*.js.map
+
+# Build output del server MCP (rigenerato con `npm run build`)
+ddb-mcp/dist/
+
+# Sessione D&D Beyond (se mai finisse nel repo)
+**/session.json
+
+# macOS
+.DS_Store
