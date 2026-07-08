@@ -55,10 +55,29 @@ La sessione viene salvata in `~/.config/ddb-mcp/session.json` — per uscire, ca
 | `ddb_navigate` / `ddb_interact` / `ddb_current_page` | Controllo del browser |
 | `ddb_download_character` | Esporta i dati di un personaggio |
 
-## Generare una campagna
+## Generare una campagna con la squadra di agenti
+
+Il progetto include una **squadra di 7 subagent** (`.claude/agents/`) e uno **slash command** che li
+orchestra per scrivere una campagna intera. Da Claude Code, aperto in questa cartella:
+
+```
+/genera-campagna Campagna dark-fantasy per 4 PG dal livello 3 al 10, ~12 sessioni, tema: assedio di una città sul confine
+```
+
+Il comando chiede eventuali dati mancanti, poi coordina in pipeline:
+
+`loremaster` → `plot-architect` → (`npc-smith` + `encounter-designer` in parallelo) → `loot-warden`
+→ `session-planner` → `continuity-editor`
+
+Ogni agente attinge ai dati ufficiali 5e via i tool `ddb_*` quando il server è connesso; altrimenti
+genera da SRD 5.1 marcando le parti «da verificare» (vedi `CLAUDE.md`).
+
+Puoi anche invocare un singolo agente col tool Task per rifinire una parte (es. solo gli incontri).
+
+A mano, senza orchestratore:
 
 1. Copia lo scheletro: `cp -r campaigns/_template campaigns/nome-campagna`
-2. Chiedi a Claude di popolarla usando i tool `ddb_*` per attingere a regole, mostri e incantesimi 5e ufficiali.
+2. Chiedi a Claude di popolarla usando i tool `ddb_*`.
 3. Versiona: `git add campaigns/nome-campagna && git commit`
 
 ## Attribuzione
