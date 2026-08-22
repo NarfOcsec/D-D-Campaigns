@@ -137,71 +137,63 @@ in infermeria; la rivalità nasce lì.
 > - **Parry (reazione).** +2 alla CA contro un attacco in mischia che lo colpirebbe (deve vedere
 >   l'attaccante e impugnare un'arma).
 >
-> **Taratura per S13 (party liv. 8)** — ⚠️ Base SRD 5.1: **Gladiator**, reskin dichiarato, da
-> verificare su D&D Beyond. Modifiche solo estetiche: la lancia → **spadone a due mani** (usare la
-> matematica della lancia a due mani, 2d8+4); la CA 16 include lo **scudo di forza donato dalla
-> Dama** (lo stesso che devia il tiro in S7) al posto dello scudo fisico; *Shield Bash* → **colpo
-> d'elsa e onda di forza** (matematica identica).
+> **Taratura per S13 (party liv. 8) — blocco unico della fase Cavaliere** — ⚠️ Base SRD 5.1:
+> **Half-Red Dragon Veteran**, reskin dichiarato e integrale, da verificare su D&D Beyond.
+> **Nessun sangue di drago**: è il chassis del veterano con **«l'arte della lama ardente»** donata
+> dalla Dama. Sostituzioni dichiarate ⚠️: il soffio è il ventaglio della lama, **ridipinto come
+> gelo del Crepuscolo** (danni da **freddo** anziché da fuoco — stessi dadi, stessa CD); la
+> resistenza al fuoco diventa **resistenza al freddo** (il favore di lei: lo stesso gelo della
+> lancia della Parata); vista cieca e scurovisione si narrano come il crepuscolo che gli sussurra
+> ciò che non vede; il Draconico si omette. È il blocco usato dalla
+> [Battaglia delle Arche](../encounters/s13-battaglia-delle-arche.md) — XP invariati (1.800).
 >
 > **Kellan Vor, Cavaliere della Dama** — umanoide Medio (umano), legale malvagio · **GS 5 (1.800 XP)**
 >
 > |  |  |
 > |---|---|
-> | **CA** | 16 (mezza armatura grigia, scudo di forza) |
-> | **PF** | 112 (15d8+45) |
+> | **CA** | 18 (armatura completa grigia della Legione) |
+> | **PF** | 65 (10d8+20) |
 > | **Velocità** | 30 ft |
 >
 > | FOR | DES | COS | INT | SAG | CAR |
 > |---|---|---|---|---|---|
-> | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
+> | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 >
-> - **TS**: For +7, Des +5, Cos +6 · **Abilità**: Atletica +10, Intimidire +5 ·
->   **Sensi**: Percezione passiva 11 · **Linguaggi**: Comune
-> - **Brave.** Vantaggio ai TS contro la condizione spaventato.
-> - **Brute.** Un'arma da mischia infligge un dado di danno extra quando Kellan colpisce (già
->   incluso nei valori sotto).
-> - **Multiattack.** Tre attacchi in mischia.
-> - **Spadone.** *Attacco in mischia*: +7, portata 5 ft; 13 (2d8+4) danni taglienti.
-> - **Colpo d'elsa e onda di forza.** *Attacco in mischia*: +7, portata 5 ft; 9 (2d4+4) danni
->   contundenti; se il bersaglio è una creatura Media o più piccola, TS For CD 15 o cade prono.
-> - **Parry (reazione).** +3 alla CA contro un attacco in mischia che lo colpirebbe.
+> - **Abilità**: Atletica +5, Percezione +2 · **Resistenze**: freddo (reskin dichiarato: nel
+>   blocco base è fuoco ⚠️) · **Sensi**: vista cieca 10 ft, scurovisione 60 ft, Percezione
+>   passiva 12 · **Linguaggi**: Comune
+> - **Multiattack.** Due attacchi con la spada lunga; se ha la daga sguainata, anche un attacco
+>   di daga.
+> - **Spada lunga.** *Attacco in mischia*: +5, portata 5 ft; 7 (1d8+3) danni taglienti, o
+>   8 (1d10+3) a due mani.
+> - **Daga** (spada corta). *Attacco in mischia*: +5, portata 5 ft; 6 (1d6+3) danni perforanti.
+> - **Balestra pesante.** *Attacco a distanza*: +3, gittata 100/400 ft; 6 (1d10+1) danni perforanti.
+> - **L'arte della lama ardente (ricarica 5-6).** Il ventaglio della spada: cono di 15 ft; TS Des
+>   CD 15, 24 (7d6) danni da **freddo** (reskin dichiarato: nel blocco base è fuoco ⚠️),
+>   dimezzati con successo.
 
 > 🔒 **Solo DM — Blocco statistica — Fase 3: la resa dei conti (S18)**
 >
-> ⚠️ Base SRD 5.1: **Gladiator** (nella taratura S13 qui sopra), potenziato con modifiche
-> **dichiarate**; GS ricalcolato con le tabelle del DMG — da verificare su D&D Beyond:
+> ⚠️ Base SRD 5.1: **Erinyes** — **reskin dichiarato e integrale**, da verificare su D&D Beyond.
+> **Statistiche invariate** (CA 18, 153 pf, volo, 3 attacchi, *Magic Resistance*) · **GS 12
+> (8.400 XP)** — il budget di [S18](../encounters/s18-apice-del-monolito.md) è calcolato su
+> questo blocco. Nessuna natura infernale e **nessun tratto angelico esplicito**: è il dono del
+> Cavaliere al culmine —
 >
-> - **PF 150** (20d8+60) invece di 112;
-> - ogni attacco con lo spadone infligge **+4 (1d8) danni da freddo** (il crepuscolo della Dama);
-> - **TS Sag +4** (il guinzaglio di Vespera gli tiene salda la mente).
+> - l'armatura è di **scaglie di crepuscolo** (CA 18);
+> - il «veleno» di spada lunga e arco lungo si legge come **gelo del Crepuscolo** (stessi dadi,
+>   stessa CD);
+> - il **volo** (60 ft) sono i **passi sul vento della strega**;
+> - *Magic Resistance* è il favore di chi parla nel rituale.
 >
-> Stima: offensiva ~GS 8, difensiva ~GS 6 → **GS 7 (2.900 XP)**.
+> **Kellan Vor, il Cavaliere del Crepuscolo** — usare il blocco SRD dell'Erinyes così com'è, col
+> reskin qui sopra.
 >
-> **Kellan Vor, Cavaliere del Crepuscolo** — umanoide Medio (umano), legale malvagio · **GS 7 (2.900 XP)**
->
-> |  |  |
-> |---|---|
-> | **CA** | 16 (mezza armatura grigia, scudo di forza) |
-> | **PF** | 150 (20d8+60) |
-> | **Velocità** | 30 ft |
->
-> | FOR | DES | COS | INT | SAG | CAR |
-> |---|---|---|---|---|---|
-> | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
->
-> - **TS**: For +7, Des +5, Cos +6, Sag +4 · **Abilità**: Atletica +10, Intimidire +5 ·
->   **Sensi**: Percezione passiva 11 · **Linguaggi**: Comune
-> - **Brave**, **Brute**, **Parry**: come nella taratura S13.
-> - **Multiattack.** Tre attacchi con lo spadone.
-> - **Spadone del Crepuscolo.** *Attacco in mischia*: +7, portata 5 ft; 13 (2d8+4) danni taglienti
->   più 4 (1d8) danni da freddo.
-> - **Colpo d'elsa e onda di forza.** Come nella taratura S13, più 4 (1d8) danni da freddo.
->
-> *Nota per l'`encounter-designer`*: da solo, GS 7 non è una minaccia mortale per un party di
-> liv. 10-11 — **è voluto**: il duello di S18 è un dialogo con le spade, e deve durare abbastanza da
-> permettere la redenzione (l'incontro può aggiungere pericoli ambientali: il Monolito in marcia, il
-> Diluvio nel cielo). Se il party cerca solo l'abbattimento rapido, Kellan usa Parry e il terreno per
-> guadagnare round — e ogni round è un'occasione per parlargli.
+> *Nota di regia*: il duello di S18 è **a posta narrativa** — in palio non c'è la sopravvivenza
+> del party ma **l'anima di Kellan**: la redenzione resta possibile fino all'ultimo scambio di
+> colpi. Tattiche, terreno, i *tell* della resa e la **scala delle leve** della via non letale
+> sono nella scheda incontro ([S18](../encounters/s18-apice-del-monolito.md)): questa scheda non
+> li duplica.
 
 ---
 
@@ -254,8 +246,21 @@ biancore lattiginoso. Uniforme impeccabile, sciabola sottile, passo che non fa r
 > ⚠️ Base SRD 5.1: **Veteran** — reskin dichiarato, da verificare su D&D Beyond. Modifiche: tratti
 > di specie elfici aggiunti (scurovisione, *Fey Ancestry*, Percezione affinata — impatto sul GS
 > trascurabile); spada lunga → **sciabola sottile** e spada corta → **daga** (matematica identica);
-> l'occhio velato è puro colore, nessun effetto meccanico. Tarata per S11; in S18 la sua funzione è
-> narrativa (depone le armi) — se là si combatte comunque, usarla com'è: la minaccia vera è Kellan.
+> l'occhio velato è puro colore, nessun effetto meccanico.
+>
+> **Tre tarature per fase** (questa scheda è la fonte unica: le schede incontro rimandano qui
+> senza duplicare i blocchi):
+>
+> 1. **Atti I-II — base**: il blocco **Veteran, GS 3 (700 XP)** qui sotto.
+> 2. **S11 — capitana dell'occupazione di Corvia**: base **Gladiator** SRD, **GS 5 (1.800 XP)** ⚠️,
+>    senza modifiche meccaniche — reskin dichiarato: Ravena e Torg **al culmine del loro
+>    servizio** nella Legione. La lancia è la sua sciabola-uncino (stessi dadi), lo *Shield Bash*
+>    sono le raffiche di vento del suo stile («VENTO.»). Il budget del duello di
+>    [S11](../encounters/s11-corvia-occupata.md) è calcolato su questa taratura.
+> 3. **S18 — l'apice del Monolito**: base **Assassin** SRD, **GS 8 (3.900 XP)** ⚠️ — reskin
+>    dichiarato: il «veleno» sono **nervi recisi con precisione chirurgica** (stessi dadi, stessa
+>    CD). Funzione **narrativa**: in S18 depone le armi — si combatte solo se i PG forzano lo
+>    scontro ([S18](../encounters/s18-apice-del-monolito.md), scena 1).
 >
 > **Ravena, capitana della Legione** — umanoide Media (elfa), legale neutrale · **GS 3 (700 XP)**
 >
@@ -327,8 +332,21 @@ lungo quanto lui e una collana di amuleti portafortuna comprati in ogni porto in
 > ⚠️ Base SRD 5.1: **Berserker** — reskin dichiarato, da verificare su D&D Beyond. Modifiche: tratti
 > di specie mezzorcheschi aggiunti (scurovisione, *Relentless Endurance* — impatto sul GS
 > trascurabile); grande ascia → **bastone ferrato a due mani** (danni contundenti, matematica
-> identica). *Reckless* è Torg che «ci va giù piatto». Tarato per S11; in S18 vale la stessa nota di
-> Ravena.
+> identica). *Reckless* è Torg che «ci va giù piatto».
+>
+> **Tre tarature per fase** (questa scheda è la fonte unica: le schede incontro rimandano qui
+> senza duplicare i blocchi):
+>
+> 1. **Atti I-II — base**: il blocco **Berserker, GS 2 (450 XP)** qui sotto.
+> 2. **S11 — capitano dell'occupazione di Corvia**: base **Gladiator** SRD, **GS 5 (1.800 XP)** ⚠️,
+>    senza modifiche meccaniche — reskin dichiarato: **al culmine del loro servizio** nella
+>    Legione. La lancia → **alabarda da parata** (stessi dadi), lo *Shield Bash* → la spallata di
+>    un mezzorco grande come una porta («…capito, no?»). Il budget del duello di
+>    [S11](../encounters/s11-corvia-occupata.md) è calcolato su questa taratura.
+> 3. **S18 — l'apice del Monolito**: base **Gladiator** SRD, **GS 5 (1.800 XP)** ⚠️ — reskin
+>    dichiarato: il **maglio** al posto della lancia (stessi dadi), e la risata che non c'è più.
+>    Funzione **narrativa**: in S18 depone le armi con Ravena — si combatte solo se i PG forzano
+>    lo scontro ([S18](../encounters/s18-apice-del-monolito.md), scena 1).
 >
 > **Torg, capitano della Legione** — umanoide Medio (mezzorco), caotico neutrale · **GS 2 (450 XP)**
 >

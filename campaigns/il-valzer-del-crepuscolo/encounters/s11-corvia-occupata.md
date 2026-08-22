@@ -31,9 +31,10 @@ del Custode **l'Urlo del Vento** (colore, zero meccaniche — vedi [campaign.md]
 
 ## Nemici
 
-I **blocchi statistica di Ravena e Torg** sono nella scheda di
-[Kellan Vor](../npcs/kellan-vor.md); base usata qui per il bilanciamento: **Gladiator** SRD
-(CR 5, 1.800 XP) ciascuno ⚠️ — se la scheda PNG assegna una base diversa, ricalcolare il quadro 3.
+Le **tarature per fase di Ravena e Torg** sono nella scheda di
+[Kellan Vor](../npcs/kellan-vor.md) (fonte unica): qui si usa la **taratura S11** — **Gladiator**
+SRD (CR 5, 1.800 XP) ciascuno ⚠️, reskin dichiarato «al culmine del loro servizio». Il quadro 3
+è calcolato su questa taratura.
 
 | Nemico | Base SRD | GS (CR) | XP | Note |
 |---|---|---|---|---|
@@ -41,8 +42,8 @@ I **blocchi statistica di Ravena e Torg** sono nella scheda di
 | Legionario | **Veteran** | 3 | 700 | ⚠️ |
 | Ufficiale di perquisizione | **Knight** | 3 | 700 | Porta la lista della caccia alla «Sorellina» ⚠️ |
 | Segugio cinereo | **Death Dog** (reskin dichiarato: i segugi a due teste già visti alla Salina) | 1 | 200 | ⚠️ |
-| **Ravena**, capitana | **Gladiator** (reskin dichiarato: elfa, un occhio velato, parla per massime di una parola; lo «shove» del gladiatore descritto come raffiche di vento del suo stile) | 5 | 1.800 | Blocco in [../npcs/kellan-vor.md](../npcs/kellan-vor.md) ⚠️ |
-| **Torg**, capitano | **Gladiator** (reskin dichiarato: mezzorco gioviale con alabarda da parata; «…capito, no?») | 5 | 1.800 | Blocco in [../npcs/kellan-vor.md](../npcs/kellan-vor.md) ⚠️ |
+| **Ravena**, capitana | **Gladiator** (reskin dichiarato: elfa, un occhio velato, parla per massime di una parola; lo «shove» del gladiatore descritto come raffiche di vento del suo stile) | 5 | 1.800 | Taratura S11 in [../npcs/kellan-vor.md](../npcs/kellan-vor.md) ⚠️ |
+| **Torg**, capitano | **Gladiator** (reskin dichiarato: mezzorco gioviale con alabarda da parata; «…capito, no?») | 5 | 1.800 | Taratura S11 in [../npcs/kellan-vor.md](../npcs/kellan-vor.md) ⚠️ |
 
 ## Budget XP e difficoltà
 

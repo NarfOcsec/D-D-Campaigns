@@ -29,8 +29,9 @@ pennoni: «CI ABBORDANO!».
 ## Nemici
 
 I blocchi di **Kellan Vor** (e le sue «crepe») sono nella scheda
-[../npcs/kellan-vor.md](../npcs/kellan-vor.md); quello della **Dama**
-in [../npcs/ilenia-craveri.md](../npcs/ilenia-craveri.md). Basi SRD usate qui per il budget:
+[../npcs/kellan-vor.md](../npcs/kellan-vor.md); il blocco della **Dama** vive **qui sotto**
+(la sua [scheda PNG](../npcs/ilenia-craveri.md) rimanda a questa scheda incontro). Basi SRD
+usate qui per il budget:
 
 | Nemico | Base SRD | GS (CR) | XP | Note |
 |---|---|---|---|---|

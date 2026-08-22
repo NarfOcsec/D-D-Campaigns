@@ -48,7 +48,8 @@ l'unica cosa che chiederanno mai: «Lui è lassù.» — «**VITA.**» (Ravena i
 uccidetelo*.)
 
 **Se i PG li attaccano comunque** (o calpestano il momento): combattono **per coprirsi la
-ritirata, non a morte**.
+ritirata, non a morte**. Blocchi: **taratura S18** dichiarata nella scheda di
+[Kellan Vor](../npcs/kellan-vor.md) (fonte unica delle tarature di Ravena e Torg).
 
 | Creatura | Blocco (SRD 5.1) | GS | XP |
 |---|---|---|---|
@@ -69,7 +70,7 @@ possibile ma quasi irraggiungibile, e a Corvia nessuno pescherà mai con lui
 
 | Creatura | Blocco (SRD 5.1) | GS | XP |
 |---|---|---|---|
-| **Kellan Vor, il Cavaliere del Crepuscolo** | **Erinyes (reskin dichiarato e integrale)**: nessuna natura infernale — è il dono del Cavaliere al culmine. Armatura di scaglie di crepuscolo (CA 18), spada lunga il cui «veleno» si legge come **gelo del Crepuscolo** (stessi dadi, stessa DC), arco lungo idem; il volo (18 m) sono **passi sul vento della strega**; *Magic Resistance* è il favore di chi parla nel rituale. Statistiche invariate: 153 hp, 3 attacchi. | 12 | 8.400 |
+| **Kellan Vor, il Cavaliere del Crepuscolo** | **Erinyes (reskin dichiarato e integrale)**: nessuna natura infernale — è il dono del Cavaliere al culmine. Armatura di scaglie di crepuscolo (CA 18), spada lunga il cui «veleno» si legge come **gelo del Crepuscolo** (stessi dadi, stessa DC), arco lungo idem; il volo (18 m) sono **passi sul vento della strega**; *Magic Resistance* è il favore di chi parla nel rituale. Statistiche invariate: 153 hp, 3 attacchi. È la **taratura S18 (Fase 3)** della scheda [Kellan Vor](../npcs/kellan-vor.md), che per tattiche e leve rimanda qui. | 12 | 8.400 |
 
 ### Budget XP
 
