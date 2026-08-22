@@ -19,8 +19,8 @@ sbagliate, ordini capiti a metà, e una devozione da lontano per **Maribel**, la
 un inseguimento oltre il mare — si dipana un Sogno alla volta.
 
 > 🔒 **Solo DM** — Dorian è vivo, e la sua vita presente è la rivelazione cardine dell'Atto III:
-> vedi la sezione [«Il Reggente della Città Velata»](#-solo-dm--il-reggente-della-città-velata-reveal-s15)
-> in fondo. Chi *invia* i Sogni è un altro segreto ancora: → [Mira](mira.md).
+> vedi la sezione «Il Reggente della Città Velata», in fondo a questo file. Chi *invia* i Sogni
+> è un altro segreto ancora: → [Mira](mira.md).
 
 ## Obiettivo e leva (nei Sogni)
 
