@@ -41,6 +41,14 @@ lo sappia ancora, la [S5](sessione-05.md).
 - **Cosa può accadere**: la fase (a) dell'[incontro](../encounters/s02-esame-di-cala-regia.md):
   il muro di scudi che vuole riprendersi la fontana, i carri da proteggere, la ritirata dei
   legionari al corno. Proteggere i civili pesa sul voto quanto vincere.
+- **Dettaglio da seminare**: ai margini della piazza, incatenati ai carri salmerie della Legione,
+  faticano dei **facchini minuti dalla pelle color cenere** — deportati «dalle Distese»,
+  mormorano i civili. Non chiedono aiuto: osservano. Un cadetto che scambia due parole gentili o
+  passa una borraccia riceve in cambio un inchino silenzioso — e un'indicazione a gesti sulla
+  pattuglia dietro l'angolo.
+  > 🔒 **Solo DM** — Sono **Cinerini**: è la semina «fatta a Cala Regia» del gancio 4 di
+  > [campaign.md](../campaign.md#ganci-e-agganci-narrativi). Ogni gentilezza qui vale un
+  > **favore** durante l'evasione dalla Salina ([S8](sessione-08.md)): annotarla.
 - **Cosa fa avanzare**: a piazza tenuta arriva il **secondo ordine**: «Le pietre della Guglia
   gracchiano. Salite e riferite.» E da nord, il fragore della squadra di Kellan che *avanza*
   invece di tenere la posizione.

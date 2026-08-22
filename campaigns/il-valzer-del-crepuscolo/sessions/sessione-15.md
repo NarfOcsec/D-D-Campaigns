@@ -83,6 +83,22 @@ scavando: il **Monolito di Basalto**, con [Kellan](../npcs/kellan-vor.md) sul su
   **appunti di Ozlo** (vantaggio alle prove sul criosigillo — chiederli *prima* è la
   differenza), e la scelta morale che l'atto pretende: obbedire alla città che li ospita, o no.
 
+### 3-bis. Gli spartiti del Pianoforte Blu (opzionale, ~10-15 min)
+
+- **Innesco**: un PG consegna a Dorian gli **spartiti di Maribel** portati via dal Pianoforte
+  Blu ad Atur ([loot.md](../loot.md#gemme-e-oggetti-darte), riga S7). Il momento giusto è dopo
+  il reveal della scena 2 — quando il tavolo sa chi è l'uomo che li riceve.
+- **Cosa può accadere**: Dorian li sfoglia in silenzio; alla terza pagina riconosce il valzer
+  «ancora senza titolo» di quella notte di ~976, e la gamba gli si blocca — stavolta senza
+  fingere che sia una posa. «L'ho sentita nascere, questa.» Per una volta, nessun nome pomposo:
+  tace fino in fondo. Se il PG del «Sangue del Reggente» è nella stanza, è il momento perfetto
+  per la domanda su Villalba (regia in scena 2).
+- **Cosa fa avanzare**: «Non è un pagamento. È un debito.» Il Reggente concede **un favore
+  concreto, subito**, a scelta del party: la sua voce in Consiglio per **attenuare di un grado**
+  le conseguenze diplomatiche del Mausoleo (tabella nella
+  [scheda incontro](../encounters/s15-mausoleo-delle-streghe.md)), oppure le **arche celesti
+  pronte al varo senza negoziati** quando serviranno ([S16](sessione-16.md)).
+
 ### 4. Il Mausoleo delle Streghe (~60-75 min)
 
 - **Luogo**: la nave di ghiaccio e argento nel quartiere alto — il Portico delle Dormienti (le
@@ -142,6 +158,8 @@ Da [loot.md](../loot.md) (riga S15):
   Vigili lo riconoscono, e a Dorian costa ogni volta che viene esibito.
 - **La Perla dell'Arcimastro** — *Pearl of Power* ⚠️, da Ozlo a lavoro finito («per un
   esemplare promettente»).
+- **Il debito del Reggente** (scena 3-bis, opzionale) — se i PG consegnano a Dorian gli
+  **spartiti di Maribel**: un favore concreto, subito (vedi scena).
 - Milestone: **livello 9** a fine sessione.
 
 ## Info e indizi (con ridondanza)

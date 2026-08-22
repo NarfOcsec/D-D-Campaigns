@@ -39,10 +39,10 @@ usate qui per il budget:
 | Esploratore d'abbordaggio | **Scout** | 1/2 | 100 | Sulle sartie e sui pennoni ⚠️ |
 | Ufficiale d'assalto | **Knight** | 3 | 700 | ⚠️ |
 | Sfondatore della Legione | **Berserker** | 2 | 450 | I soli a combattere per uccidere ⚠️ |
-| **Kellan Vor, «potenziato»** (Cavaliere della Dama) | **Half-Red Dragon Veteran** (reskin dichiarato: nessun sangue di drago — il chassis del veterano con «l'arte della lama ardente» donata dalla Dama: il soffio = ventaglio di fuoco della spada, la resistenza al fuoco = il favore di lei) | 5 | 1.800 | Blocco definitivo in [../npcs/kellan-vor.md](../npcs/kellan-vor.md) ⚠️ |
+| **Kellan Vor, «potenziato»** (Cavaliere della Dama) | **Half-Red Dragon Veteran** (reskin dichiarato: nessun sangue di drago — il chassis del veterano con «l'arte della lama ardente» donata dalla Dama: il soffio = ventaglio della lama **ridipinto come gelo del Crepuscolo** — danni da freddo anziché da fuoco, sostituzione dichiarata ⚠️; la resistenza, ora al freddo, = il favore di lei) | 5 | 1.800 | Blocco definitivo in [../npcs/kellan-vor.md](../npcs/kellan-vor.md) (taratura S13, fase Cavaliere) ⚠️ |
 | Campione di Valdegrigia (scorta di Kellan) | **Veteran** | 3 | 700 | ⚠️ |
 | **Il Tricipite** (opz.) | **Chimera** (reskin dichiarato: mastino colossale **a tre teste** — il morso = testa centrale, le corna = testata delle teste laterali, il soffio di fuoco = «alito di fornace» della gola antica; la velocità di volo si descrive come balzi prodigiosi tra le balconate — nessuna modifica meccanica) | 6 | 2.300 | Guardiano-Custode dell'atrio ⚠️ |
-| **La Dama del Crepuscolo** | **Archmage** (reskin «da strega» dichiarato, vedi sotto) | 12 | 8.400 | Blocco in [../npcs/ilenia-craveri.md](../npcs/ilenia-craveri.md) ⚠️ |
+| **La Dama del Crepuscolo** | **Archmage** (reskin «da strega» dichiarato, vedi sotto) | 12 | 8.400 | Blocco qui sotto ⚠️ |
 
 ### La Dama — reskin «da strega» (meccaniche SRD intatte)
 
@@ -109,7 +109,7 @@ per tenerlo «pulito». Non è teatro: Kellan potenziato picchia per vincere —
 uccidere il rivale (la Dama lo vuole *sconfitto*, e Kellan vuole *dimostrare*).
 
 - **Turno 1**: i campioni si frappongono; Kellan apre con «l'arte della lama ardente» (il
-  soffio) sul gruppo, poi cerca il rivale.
+  soffio — un ventaglio di gelo del Crepuscolo) sul gruppo, poi cerca il rivale.
 - **Fuga/resa**: con **2+ crepe** accumulate (biforcazione 2 di [campaign.md](../campaign.md)),
   a metà pf Kellan esita, ringhia «non così», e **fugge** verso il teatro — non lo si rivedrà
   fino all'apice del Monolito. Senza crepe combatte fino a terra: sconfitto, viene trascinato

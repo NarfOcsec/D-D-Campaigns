@@ -187,9 +187,10 @@ lasciato.
 - **Cosa consegna al tavolo**: la quiete al centro della campagna — la cosa per cui vale la pena
   combattere. E un addio che il Sogno non spiega.
 
-> 🔒 **Solo DM** — Raissa **sposò Dorian** (~981) e morì nel 982 dando alla luce suo figlio: il
-> PG del gancio **«Il Sangue del Reggente»**. La bambina che cresceva con lei è **[Mira](mira.md)**
-> (rapita nel ~980: è il Sogno IV). Il neonato e Mira finirono insieme
+> 🔒 **Solo DM** — Raissa **sposò Dorian** (~980); quando lui partì all'inseguimento oltre il
+> mare — a fine 981, dopo il rapimento della bambina — era **già incinta**. Morì nel 982 dando
+> alla luce suo figlio: il PG del gancio **«Il Sangue del Reggente»**. La bambina che cresceva
+> con lei è **[Mira](mira.md)** (rapita nel ~980-981: è il Sogno IV). Il neonato e Mira finirono insieme
 > all'[Orfanotrofio del Faro](../campaign.md#capo-biancospino-e-lorfanotrofio-del-faro). La sua
 > tomba è a Villalba: l'[epilogo](../campaign.md#climax-e-finali-possibili) può chiudersi lì, in
 > due. **Regia delicata**: il Sogno III è un'eco dolorosa per il PG del «Sangue» — non

@@ -142,7 +142,7 @@ Il livello indicato è quello **di fine sessione** (milestone in
 | **S4** | 3 | Cassaforte della carrozza blindata: 150 mo in paghe della Legione, dispacci cifrati (leva per S5-S6). 2 × *Potion of Healing* ⚠️ nel vano medico. *Spell Scroll* di **remove curse** ⚠️ procurata dalla Brigata (vedi nota Putredine). Il **vagone della Brigata** diventa base e casa. |
 | **S5** | 3 | Nessun tesoro: si scappa. La **rete dei ferrovieri** (favore permanente: passaggi, nascondigli, orari). Livia Serracorta si unisce al gruppo. |
 | **S6** | 4 | **La Spada del Re Senza Nome** — *Weapon +1* ⚠️ (dal Tumulo, concessa dai Fratelli). Un **pegno d'offerta** a testa dalle colonne (monile da 25 mo; prenderne di più è sacrilegio — colore). La **parola per il Generale** → piano della Parata + lasciapassare dei cunicoli. Custode opz.: i Fratelli del Tumulo. |
-| **S7** | 4 | *Spell Scroll* di **greater restoration** ⚠️ dal guaritore del Generale (per la pietrificazione — vedi [S7](encounters/s07-parata-della-notte.md)). Gli **occhi di calcedonio** della Veggente (2 gemme da 50 mo, *dopo* averli spezzati per liberare i pietrificati). Gli **spartiti di Maribel** dal Pianoforte Blu (leva emotiva su Elara, Vessk e — molto più tardi — Dorian). Poi: **catene, e tutto confiscato** (vedi Segnalazioni, punto 3). |
+| **S7** | 4 | *Spell Scroll* di **greater restoration** ⚠️ dal guaritore del Generale (per la pietrificazione — vedi [S7](encounters/s07-parata-della-notte.md)). Gli **occhi di calcedonio** della Veggente (2 gemme da 50 mo, *dopo* averli spezzati per liberare i pietrificati). Gli **spartiti di Maribel** dal Pianoforte Blu (leva emotiva su Elara, Vessk e — molto più tardi — Dorian: payoff opzionale in [S15](sessions/sessione-15.md), scena 3-bis). Poi: **catene, e tutto confiscato** (vedi Segnalazioni, punto 3). |
 | **S8** | 5 | **L'equipaggiamento torna** (deposito della Salina, onda 2). Divise, lasciapassare e le **chiavi del Primo Carceriere** (aprono l'infiltrazione di S9). 2 × *Potion of Greater Healing* ⚠️ dall'infermeria della prigione. Il debito con i Cinerini, saldato in favori durante l'evasione. |
 | **S9** | 6 | Dalla Batteria: **Wand of Magic Missiles** ⚠️ e i **sigilli di lancio** (prova della requisizione: Cannith paga 400 mo e apre un contratto collaterale). Dal Cuore dell'Arca: le **Pietre gemelle dei giganti** — *Sending Stones* ⚠️ **mute** (vedi scheda). Arretrati di paga, se qualcuno osa negoziarli con Borvo a golpe fallito. |
 | **S10** | 6 | Se il Mangiafuoco è fermato **senza distruggerlo**: l'**Asta dei binari** — *Immovable Rod* ⚠️ forgiata dagli artefici, più lo sconto sostanzioso sul conto dei danni. Il **cristallo di comando** resta al Ponte col semovente-gru (vedi Segnalazioni, punto 5). La sera: il Festival di Filia, che non si compra. |
@@ -334,8 +334,10 @@ Non pagano: **si fidano**, che per loro è la stessa cosa detta bene.
 - **Lacrime di ossidiana** (S1) — 10 mo l'una; i cadetti le montano su cordini. Colore.
 - **Occhi di calcedonio della Veggente** (S7) — 2 × 50 mo, *dopo* l'uso che conta.
 - **Gli spartiti di Maribel** (S7, il Pianoforte Blu) — valore di mercato: 5 mo. Valore per
-  Elara, per Vessk, e un giorno per Dorian: non quantificabile. È l'oggetto d'arte più potente
-  della campagna e non brilla nemmeno.
+  Elara, per Vessk, e un giorno per Dorian: non quantificabile — consegnarli al Reggente
+  ([S15](sessions/sessione-15.md), scena opzionale 3-bis) vale **un favore concreto** e una
+  delle scene più quiete della campagna. È l'oggetto d'arte più potente della campagna e non
+  brilla nemmeno.
 - **Vetro del Lutto e lacrime del Campo del Pianto** (S14, S17) — Cannith e i collegi arcani
   pagano 100+ mo a campione. Chi le tiene in tasca, però, sogna male.
 - **Schegge di Siberys** (S16) — oro vivo del cielo: 500 mo al peso, il doppio da Sivis o

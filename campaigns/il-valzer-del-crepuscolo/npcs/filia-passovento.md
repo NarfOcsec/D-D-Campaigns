@@ -97,3 +97,11 @@ gessetti e coriandoli d'emergenza. Odora vagamente di polvere pirica e zucchero 
 - **Razzi da festival.** *Attacco a distanza*: +4, gittata 60/240 ft; 6 (1d8+2) danni da fuoco.
   Ogni colpo è anche un piccolo spettacolo: scie colorate, nomi propri gridati in battaglia
   («Vai, Margherita!»).
+
+> 🔒 **Solo DM — taratura per gli Atti III-IV** (opzionale). Dal liv. 9 del party il blocco Scout
+> GS 1/2 non regge più la scena: se serve che Filia pesi in combattimento (es. la difesa di
+> Vhelis, [S17](../encounters/s17-diluvio-su-vhelis.md)), usare come base il **Mage** SRD (**GS 6,
+> 2.300 XP**) con reskin dichiarato — gli incantesimi sono i **fuochi del Festival** portati a
+> potenza da guerra (*fireball* = «Margherita, versione grande»; *misty step* = un fumogeno
+> coreografico), meccaniche intatte — ⚠️ da verificare su D&D Beyond. La crescita è anche
+> narrativa: tre atti di micce, dosaggi e colori diventano, quando serve, artiglieria.

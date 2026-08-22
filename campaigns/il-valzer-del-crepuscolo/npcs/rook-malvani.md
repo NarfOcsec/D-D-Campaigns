@@ -96,3 +96,11 @@ che non mostra a nessuno.
 > *Opzione DM*: per rappresentare davvero «il miglior tiratore di Valdegrigia» nelle scene in cui
 > conta, alzare DES a 16 (+3): balestra +5 per colpire, 1d10+3 ai danni, Furtività +7. Segnare la
 > variante come ulteriore adattamento ⚠️.
+
+> 🔒 **Solo DM — taratura per gli Atti III-IV** (opzionale). Dal liv. 9 del party il blocco Scout
+> GS 1/2 non regge più la scena: se serve che Rook pesi in combattimento (es. la difesa di Vhelis,
+> [S17](../encounters/s17-diluvio-su-vhelis.md)), usare come base l'**Assassin** SRD (**GS 8,
+> 3.900 XP**) con lo stesso reskin — il «veleno» sono **colpi mirati ai gangli** (stessi dadi,
+> stessa CD), la balestra del blocco è il suo pezzo lucidato come un gioiello, *Assassinate* è
+> «un colpo solo» — ⚠️ da verificare su D&D Beyond. Nessun tratto nuovo: la crescita è di
+> mestiere, non di magia.

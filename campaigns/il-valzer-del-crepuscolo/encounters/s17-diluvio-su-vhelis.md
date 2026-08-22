@@ -29,7 +29,8 @@ dove serve. Io tengo la Torre.»
 
 ## Alleati PNG in campo
 
-Blocchi suggeriti (tutti SRD, reskin dichiarati, `⚠️ da verificare`): [Livia
+Blocchi suggeriti (tutti SRD, reskin dichiarati, `⚠️ da verificare`; le tarature Atto III-IV di
+Livia, Rook e Filia sono dichiarate anche nelle rispettive schede PNG): [Livia
 Serracorta](../npcs/livia-serracorta.md) → Gladiator (la frusta al posto della lancia, stessi
 dadi); [Rook Malvani](../npcs/rook-malvani.md) → Assassin (il «veleno» sono colpi mirati ai
 gangli, stessi dadi); [Filia Passovento](../npcs/filia-passovento.md) → Mage (i «fuochi del

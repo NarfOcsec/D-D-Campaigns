@@ -1,4 +1,4 @@
-# Sessione 09 — La Batteria, il golpe e il risveglio dell'Arca
+# Sessione 9 — La Batteria, il golpe e il risveglio dell'Arca
 
 > 🔒 **Solo DM** — l'intera scheda contiene l'intreccio della sessione: giocatori, non leggete
 > oltre.

@@ -162,10 +162,11 @@ in infermeria; la rivalità nasce lì.
 > - **Abilità**: Atletica +5, Percezione +2 · **Resistenze**: freddo (reskin dichiarato: nel
 >   blocco base è fuoco ⚠️) · **Sensi**: vista cieca 10 ft, scurovisione 60 ft, Percezione
 >   passiva 12 · **Linguaggi**: Comune
-> - **Multiattack.** Due attacchi con la spada lunga; se ha la daga sguainata, anche un attacco
+> - **Multiattack.** Due attacchi con lo spadone; se ha la daga sguainata, anche un attacco
 >   di daga.
-> - **Spada lunga.** *Attacco in mischia*: +5, portata 5 ft; 7 (1d8+3) danni taglienti, o
->   8 (1d10+3) a due mani.
+> - **Spadone del Cavaliere** (spada lunga del blocco: il suo spadone di sempre, matematica
+>   identica). *Attacco in mischia*: +5, portata 5 ft; 8 (1d10+3) danni taglienti a due mani,
+>   o 7 (1d8+3) a una mano.
 > - **Daga** (spada corta). *Attacco in mischia*: +5, portata 5 ft; 6 (1d6+3) danni perforanti.
 > - **Balestra pesante.** *Attacco a distanza*: +3, gittata 100/400 ft; 6 (1d10+1) danni perforanti.
 > - **L'arte della lama ardente (ricarica 5-6).** Il ventaglio della spada: cono di 15 ft; TS Des
@@ -262,7 +263,7 @@ biancore lattiginoso. Uniforme impeccabile, sciabola sottile, passo che non fa r
 >    CD). Funzione **narrativa**: in S18 depone le armi — si combatte solo se i PG forzano lo
 >    scontro ([S18](../encounters/s18-apice-del-monolito.md), scena 1).
 >
-> **Ravena, capitana della Legione** — umanoide Media (elfa), legale neutrale · **GS 3 (700 XP)**
+> **Ravena** (blocco base, Atti I-II) — umanoide Media (elfa), legale neutrale · **GS 3 (700 XP)**
 >
 > |  |  |
 > |---|---|
@@ -348,7 +349,7 @@ lungo quanto lui e una collana di amuleti portafortuna comprati in ogni porto in
 >    Funzione **narrativa**: in S18 depone le armi con Ravena — si combatte solo se i PG forzano
 >    lo scontro ([S18](../encounters/s18-apice-del-monolito.md), scena 1).
 >
-> **Torg, capitano della Legione** — umanoide Medio (mezzorco), caotico neutrale · **GS 2 (450 XP)**
+> **Torg** (blocco base, Atti I-II) — umanoide Medio (mezzorco), caotico neutrale · **GS 2 (450 XP)**
 >
 > |  |  |
 > |---|---|

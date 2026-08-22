@@ -82,9 +82,9 @@ opzionale in linea nella scheda di sessione.)*
 | Ambientazione e fazioni (campaign.md) | ✅ Completa | Coerente con la fonte di verità |
 | Trama, biforcazioni, finali (campaign.md) | ✅ Completa | 5 biforcazioni + 3 finali + epiloghi variabili |
 | Fonte di verità (dietro-le-quinte.md) | ✅ Completa | Mappa dei beat: **47/47 righe coperte** nelle sessioni indicate; **5/5 Sogni** collocati |
-| PNG (16 file) | 🔧 Da rifinire | Contenuti completi; da allineare alcune tarature statistiche incrociate (vedi report, punti 1-3 e 8) e una data (punto 4) |
-| Incontri (23 file) | 🔧 Da rifinire | Tutti con budget XP o dichiarazione «scriptato/ambientale»; da correggere due rimandi ai blocchi PNG (punti 2, 5) e una ricompensa mancante (punto 7) |
-| Sessioni (22 + interludi) | ✅ Completa | Un solo micro-buco di semina (punto 6) |
+| PNG (16 file) | ✅ Completa | Tarature incrociate allineate (Kellan e Ravena/Torg per fase; Rook e Filia con taratura Atti III-IV) e cronologia Dorian/Raissa corretta |
+| Incontri (23 file) | ✅ Completa | Tutti con budget XP o dichiarazione «scriptato/ambientale»; rimandi ai blocchi PNG allineati, Spada del Re Senza Nome aggiunta in S6 |
+| Sessioni (22 + interludi) | ✅ Completa | Semina dei Cinerini in S2 e payoff degli spartiti in S15 inclusi |
 | Ricompense (loot.md) | ✅ Completa | Ritmo per atto, mittenti, 10 segnalazioni di bilanciamento già presidiate |
 | Verifica su D&D Beyond | ⏳ In attesa | Tool `ddb_*` non disponibili in generazione: **tutto il materiale è SRD 5.1 + linee guida DMG, da verificare** (lista sotto) |
 | Link interni | ✅ Verificati | 849 link relativi controllati, nessuno rotto |
@@ -115,7 +115,7 @@ La S22 non assegna livelli: è il finale, e si gioca al 13.
 > **Nota d'uso**: quasi tutte le schede incontro sono tarate sul livello di *fine* sessione,
 > mentre al tavolo si gioca ancora al livello precedente. Ogni scheda lo dichiara e fornisce
 > varianti «più leggera»; per i finali d'atto (S13, S20) le schede consigliano di anticipare la
-> milestone a inizio sessione. Vedi report, punto 9.
+> milestone a inizio sessione. Vedi report, punto 1.
 
 ## Da verificare su D&D Beyond (`ddb_search`)
 
@@ -126,12 +126,12 @@ dichiarato) e ogni voce marcata ⚠️ va ricontrollata. Raggruppate per file:
 
 | File | Blocchi da verificare |
 |---|---|
-| [npcs/kellan-vor.md](npcs/kellan-vor.md) | Thug (S1) · Knight (S7) · Gladiator (S13, e potenziato GS 7 ricalcolato con tabelle DMG per S18) · Veteran (Ravena) · Berserker (Torg) |
+| [npcs/kellan-vor.md](npcs/kellan-vor.md) | Thug (S1) · Knight (S7) · Half-Red Dragon Veteran (S13, soffio e resistenza fuoco→freddo dichiarati) · Erinyes (S18, reskin integrale) · Veteran / Gladiator / Assassin (Ravena, tarature per fase) · Berserker / Gladiator (Torg, tarature per fase) |
 | [npcs/livia-serracorta.md](npcs/livia-serracorta.md) | Veteran (frusta con portata 10 ft) · regola opzionale del disarmo (DMG) · Gladiator (taratura Atti III-IV) |
 | [npcs/elara-vessk.md](npcs/elara-vessk.md) | Noble (adattato) · Mastiff (Stella) |
 | [npcs/aldric-vessk.md](npcs/aldric-vessk.md) | Knight |
-| [npcs/rook-malvani.md](npcs/rook-malvani.md) | Scout (+ variante DES 16) |
-| [npcs/filia-passovento.md](npcs/filia-passovento.md) | Scout (razzi da festival: danno da fuoco) |
+| [npcs/rook-malvani.md](npcs/rook-malvani.md) | Scout (+ variante DES 16) · Assassin (taratura Atti III-IV) |
+| [npcs/filia-passovento.md](npcs/filia-passovento.md) | Scout (razzi da festival: danno da fuoco) · Mage (taratura Atti III-IV) |
 | [npcs/brigata-del-cardo.md](npcs/brigata-del-cardo.md) | Bandit (Fusto e partigiani) · Commoner (Tarlo) |
 | [npcs/verek-dalzun.md](npcs/verek-dalzun.md) | Noble + Veteran (scorta) · Thug (Brusco) · Guard (Malo) |
 | [npcs/dorian-falk.md](npcs/dorian-falk.md) | Veteran (Dorian) · Spy (Renna) · Gladiator (Grosso) · Guard/Scout (comparse dei Sogni) |
@@ -149,14 +149,14 @@ dichiarato) e ogni voce marcata ⚠️ va ricontrollata. Raggruppate per file:
 | [encounters/s09 (Batteria)](encounters/s09-batteria-del-giudizio.md) | Guard · Thug · Spy · Veteran · Knight · Flesh Golem (Carico-77: i fulmini lo curano) |
 | [encounters/s09 (Cuore)](encounters/s09-cuore-dellarca.md) | Thug · Veteran · Bandit Captain · Animated Armor · Flying Sword · Gargoyle |
 | [encounters/s10](encounters/s10-mangiafuoco.md) | Shield Guardian (con *Fireball* immagazzinata) · Bandit Captain · Thug · Veteran · Guard |
-| [encounters/s11 (Corvia)](encounters/s11-corvia-occupata.md) | Guard · Veteran · Knight · Death Dog · Gladiator ×2 (⚠️ vedi report, punto 1) |
+| [encounters/s11 (Corvia)](encounters/s11-corvia-occupata.md) | Guard · Veteran · Knight · Death Dog · Gladiator ×2 (tarature S11 di Ravena e Torg, dalla scheda di Kellan) |
 | [encounters/s11 (Nivalta)](encounters/s11-rovine-di-nivalta.md) | Thug · Berserker · Bandit Captain · Wolf · Winter Wolf · Ghoul · Otyugh |
-| [encounters/s13](encounters/s13-battaglia-delle-arche.md) | Veteran · Scout · Knight · Berserker · Half-Red Dragon Veteran (⚠️ punto 2) · Chimera · **Archmage** (la Dama, reskin dichiarato) |
+| [encounters/s13](encounters/s13-battaglia-delle-arche.md) | Veteran · Scout · Knight · Berserker · Half-Red Dragon Veteran (soffio fuoco→freddo dichiarato) · Chimera · **Archmage** (la Dama, reskin dichiarato) |
 | [encounters/s14](encounters/s14-distese-vitree.md) | Banshee · Specter · Gibbering Mouther · Chuul · Wraith · Will-o'-wisp · Cloaker |
 | [encounters/s15](encounters/s15-mausoleo-delle-streghe.md) | Veteran · Shield Guardian (*Hold Person* nello Spell Storing) · Mage · *Arcane Lock* · *Glyph of Warding* |
 | [encounters/s16](encounters/s16-arca-vermiglia.md) | Gargoyle · Stone Golem · Red Slaad (senza tratti d'infezione, con regola delle coppie) |
 | [encounters/s17](encounters/s17-diluvio-su-vhelis.md) | Gibbering Mouther · Chuul · Grick · Cloaker · Death Slaad · Red Slaad |
-| [encounters/s18](encounters/s18-apice-del-monolito.md) | Assassin (Ravena) · Gladiator (Torg) · **Erinyes** (Kellan al culmine — ⚠️ punto 3) |
+| [encounters/s18](encounters/s18-apice-del-monolito.md) | Assassin (Ravena) · Gladiator (Torg) · **Erinyes** (Kellan al culmine, reskin integrale) |
 | [encounters/s19](encounters/s19-azhera-congiunta.md) | **Marilith** (Azhera Congiunta) · Spy (solo pf, segnaposto per Elara) |
 | [encounters/s20](encounters/s20-ere-congiunte.md) | Shield Guardian · Veteran · Stone Giant · Nalfeshnee · Vrock |
 | [encounters/s21](encounters/s21-campioni-sigillo.md) | Iron Golem · Gynosphinx · Marilith · Vampire · Mummy Lord · Aboleth · Chain Devil ×2 · **Balor** (*Death Throes*!) · Swarm of Bats (variante) |
@@ -182,7 +182,7 @@ marcia forzata (S14) · regola opzionale del **disarmo** (Livia) · regola opzio
 **«colpire la copertura»** (S19) · oggetti resilienti (S19) · **moltiplicatore per gruppi
 numerosi** (S17, O4) · pietrificazione RAW vs variante dichiarata (S7) · **azioni di tana
 adattate** (S22 — non SRD, costruite su incantesimi SRD: da approvare come DM) ·
-**ridimensionamento di mostri** con le tabelle DMG (Kellan S18 nella scheda PNG; Solar in S22) ·
+**ridimensionamento di mostri** con le tabelle DMG (Solar in S22) ·
 budget XP giornalieri e soglie per livello (tutte le schede incontro).
 
 ## Report di coerenza (🔒 Solo DM)
@@ -197,17 +197,43 @@ Problemi residui, in ordine di gravità:
 
 | # | Gravità | File coinvolti | Problema | Agente |
 |---|---|---|---|---|
-| 1 | **Media** | [npcs/kellan-vor.md](npcs/kellan-vor.md) · [encounters/s11-corvia-occupata.md](encounters/s11-corvia-occupata.md) · [encounters/s18-apice-del-monolito.md](encounters/s18-apice-del-monolito.md) | **Ravena e Torg hanno tre tarature incompatibili**: la scheda PNG li dà Veteran GS 3 / Berserker GS 2 («tarata per S11»), ma S11 li bilancia come Gladiator GS 5 ×2 (5.400 XP mod., Difficile — coi blocchi PNG il quadro 3 crollerebbe a ~1.725, Facile) e S18 come Assassin GS 8 / Gladiator GS 5. S11 stessa avverte «se la scheda PNG assegna una base diversa, ricalcolare»: la base È diversa. Decidere una scala unica (es. la scheda PNG dichiari le tre tarature per fase, come già fa per Kellan) | `npc-smith` (con nota per `encounter-designer`) |
-| 2 | **Media** | [encounters/s13-battaglia-delle-arche.md](encounters/s13-battaglia-delle-arche.md) · [npcs/kellan-vor.md](npcs/kellan-vor.md) | **Kellan in S13**: la scheda incontro usa Half-Red Dragon Veteran GS 5 e rimanda al «blocco definitivo» nella scheda PNG — che però riporta un Gladiator GS 5 (stessi XP, meccaniche diverse: soffio ardente vs onda di forza). Allineare i due file su un solo blocco | `npc-smith` |
-| 3 | **Media** | [npcs/kellan-vor.md](npcs/kellan-vor.md) · [encounters/s18-apice-del-monolito.md](encounters/s18-apice-del-monolito.md) | **Kellan in S18**: la scheda PNG (Fase 3) lo costruisce come Gladiator potenziato **GS 7, 2.900 XP, 150 pf**; la scheda incontro usa **Erinyes GS 12, 8.400 XP, 153 pf** e ci calcola il budget. Entrambi dichiarano lo stesso intento (duello sotto-Mortale), ma i numeri sono incompatibili: scegliere il blocco definitivo e retrocedere l'altro a variante | `npc-smith` + `encounter-designer` |
-| 4 | **Media** | [npcs/dorian-falk.md](npcs/dorian-falk.md) · [sessions/interludi-sogni.md](sessions/interludi-sogni.md) | **Cronologia Dorian/Raissa**: la scheda data il matrimonio «~981» e la nascita del figlio nel 982, ma il rapimento di Mira (~980, Sogno IV) fa partire Dorian all'inseguimento immediato oltre il mare, da cui «non tornò da Raissa». Concepimento ~981 incompatibile con partenza ~980. La fonte di verità non data il matrimonio: basta spostarlo (con il concepimento) a prima della partenza (~979-980) nella scheda e verificare l'arco «~977-981» dell'interludio III | `npc-smith` (visto da `loremaster`) |
-| 5 | Minore | [encounters/s13-battaglia-delle-arche.md](encounters/s13-battaglia-delle-arche.md) · [npcs/ilenia-craveri.md](npcs/ilenia-craveri.md) | **Rimando circolare sul blocco della Dama**: la tabella nemici di S13 dice «Blocco in ilenia-craveri.md», ma la scheda PNG rimanda (correttamente) alla scheda incontro, dove il reskin dell'Archmage effettivamente sta. Correggere la cella della tabella | `encounter-designer` |
-| 6 | Minore | [sessions/sessione-02.md](sessions/sessione-02.md) · [campaign.md](campaign.md) | **Semina dei Cinerini**: il gancio 4 di campaign.md nasce «a Cala Regia» e S8 lo dà per seminato lì, ma la scheda di S2 non contiene alcuna scena o indizio sui Cinerini. Aggiungere un aggancio in S2 (es. il committente che «paga bene per notizie» tra le fonti d'indizio) o spostare la semina | `session-planner` |
-| 7 | Minore | [encounters/s06-tumulo-del-re-senza-nome.md](encounters/s06-tumulo-del-re-senza-nome.md) | **La Spada del Re Senza Nome** (unico permanente dell'Atto I, in loot.md e sessione-06) non compare nella Sala 3 della scheda incontro, che elenca solo «la parola» sotto il trono. Aggiungerla all'esito della prova | `encounter-designer` (coordinato con `loot-warden`) |
-| 8 | Minore | [encounters/s17-diluvio-su-vhelis.md](encounters/s17-diluvio-su-vhelis.md) · schede PNG | **Tarature «Atto III» degli alleati**: S17 suggerisce Rook→Assassin, Filia→Mage, Renna→Assassin, Grosso→Gladiator, ma le schede di Rook (Scout GS 1/2) e Filia (Scout GS 1/2) non menzionano alcuna taratura tarda (solo Livia ce l'ha). Aggiungere alle schede PNG una nota di riscalatura per gli Atti III-IV, o dichiarare in S17 che i blocchi suggeriti sostituiscono le schede | `npc-smith` |
-| 9 | Minore (pattern dichiarato) | quasi tutte le schede `encounters/` | **Milestone vs taratura**: le schede incontro sono sistematicamente tarate sul livello di *fine* sessione mentre si gioca al livello precedente (S4, S6, S8, S9, S11, S13, S14, S15, S16, S18, S20). Ogni scheda lo dichiara e offre varianti, quindi non è un errore — ma è un attrito che il DM paga a ogni sessione. Valutare di spostare 2-3 milestone a inizio sessione (S13 e S20 lo consigliano già) | `encounter-designer` |
-| 10 | Minore | [loot.md](loot.md) · sessioni Atto III | **Gli spartiti di Maribel** promettono un valore «un giorno per Dorian», ma nessuna scena da S15 in poi li riprende: prevedere un beat opzionale a Vhelis (o lasciarlo esplicitamente al DM) | `session-planner` |
-| 11 | Cosmetico | [sessions/sessione-09.md](sessions/sessione-09.md) | Titolo «Sessione 09» (zero iniziale) difforme dalle altre («Sessione 9») | `session-planner` |
+| 1 | Minore (pattern dichiarato) | quasi tutte le schede `encounters/` | **Milestone vs taratura**: le schede incontro sono sistematicamente tarate sul livello di *fine* sessione mentre si gioca al livello precedente (S4, S6, S8, S9, S11, S13, S14, S15, S16, S18, S20). Ogni scheda lo dichiara e offre varianti, quindi non è un errore — ma è un attrito che il DM paga a ogni sessione. Valutare di spostare 2-3 milestone a inizio sessione (S13 e S20 lo consigliano già) | `encounter-designer` |
+
+**Voci risolte** (correzioni applicate — passata di revisione finale):
+
+- ✅ **Ravena e Torg, tarature incompatibili** — [npcs/kellan-vor.md](npcs/kellan-vor.md) è ora la
+  fonte unica con **tre tarature dichiarate per fase** ciascuno (Atti I-II: Veteran GS 3 /
+  Berserker GS 2 · S11: Gladiator GS 5 «al culmine del loro servizio» · S18: Assassin GS 8 /
+  Gladiator GS 5, funzione narrativa); [S11](encounters/s11-corvia-occupata.md) e
+  [S18](encounters/s18-apice-del-monolito.md) rimandano alla scheda citando la taratura in uso.
+  Budget XP delle schede incontro invariati.
+- ✅ **Kellan in S13** — blocco unico della fase Cavaliere: **Half-Red Dragon Veteran GS 5** nella
+  scheda PNG, col soffio e la resistenza **ridipinti fuoco→freddo** (gelo del Crepuscolo, reskin
+  dichiarato ⚠️); [S13](encounters/s13-battaglia-delle-arche.md) allineata, XP invariati (1.800).
+- ✅ **Kellan in S18** — la scheda PNG adotta l'**Erinyes GS 12 reskin integrale** (gelo del
+  Crepuscolo, passi sul vento, nessun tratto angelico esplicito) come taratura S18, con nota di
+  posta narrativa (redenzione) e rimando alla scheda incontro per tattiche e leve.
+- ✅ **Cronologia Dorian/Raissa** — matrimonio ~980; Dorian parte a fine 981 (rapimento di Mira
+  ~980-981) quando Raissa è già incinta; nascita 982, Raissa muore di parto. Allineati
+  [npcs/dorian-falk.md](npcs/dorian-falk.md) e [gli interludi](sessions/interludi-sogni.md)
+  (Sogno IV ~980-981, Sogno V ~981-982); coerente con rivolta 981-982 e sigillo 982.
+- ✅ **Rimando circolare sul blocco della Dama** — [S13](encounters/s13-battaglia-delle-arche.md)
+  dichiara che il blocco Archmage vive nella scheda incontro («blocco qui sotto»); la scheda PNG
+  continua a rimandare lì.
+- ✅ **Semina dei Cinerini** — aggiunta in [S2](sessions/sessione-02.md), scena 2: i facchini
+  cinerini deportati ai carri della Legione, con nota 🔒 sul payoff alla Salina (S8).
+- ✅ **Spada del Re Senza Nome** — aggiunta alla Sala 3 di
+  [encounters/s06](encounters/s06-tumulo-del-re-senza-nome.md): consegnata dai Fratelli a prova
+  superata, con link a loot.md.
+- ✅ **Tarature Atto III-IV degli alleati** — note aggiunte in
+  [npcs/rook-malvani.md](npcs/rook-malvani.md) (Assassin GS 8) e
+  [npcs/filia-passovento.md](npcs/filia-passovento.md) (Mage GS 6), sul modello di quella di
+  Livia; S17 segnala che le tarature vivono anche nelle schede PNG.
+- ✅ **Spartiti di Maribel** — payoff opzionale aggiunto in [S15](sessions/sessione-15.md)
+  (scena 3-bis: la consegna a Dorian, la reazione, un favore concreto del Reggente); voci di
+  loot.md allineate.
+- ✅ **Intestazione S9** — uniformata a «Sessione 9» (lo standard prevalente delle altre 21, senza
+  zero iniziale).
 
 **Controlli superati** (nessuna azione richiesta):
 

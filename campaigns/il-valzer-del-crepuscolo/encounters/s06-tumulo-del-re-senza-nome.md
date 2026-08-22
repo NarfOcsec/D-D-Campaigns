@@ -93,8 +93,10 @@ di combattere — e concedono il **Legame** — se il party dimostra valore in u
 riduce **entrambi** sotto la metà dei PF; resiste **5 round** senza che nessun PG fugga dalla
 cripta; o un PG regge una carica del Maggiore **senza arretrare** (TS Forza CD 13 dopo aver
 subito il colpo) e risponde. A quel punto le due voci parlano insieme: *«Il re non ha nome. Voi
-sì. Difendetelo meglio di quanto facemmo noi.»* Sotto il trono, la **parola per il Generale** e
-il diritto di pronunciare i Fratelli come Custode.
+sì. Difendetelo meglio di quanto facemmo noi.»* Sotto il trono, la **parola per il Generale**;
+sui gradini del trono, deposta dai Fratelli a prova superata, **la Spada del Re Senza Nome** —
+*Weapon +1* ⚠️, l'unico oggetto permanente dell'Atto I (scheda in [../loot.md](../loot.md)) —
+e il diritto di pronunciare i Fratelli come Custode.
 
 ## Terreno e mappa
 

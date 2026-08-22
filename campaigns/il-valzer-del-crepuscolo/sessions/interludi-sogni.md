@@ -175,7 +175,7 @@ anche quei tre, da qualche parte, hanno ricominciato da zero.
 ## Interludio IV — «La Sorellina»
 
 **Innesco**: [S10](sessione-10.md) — la notte dopo il concerto al Ponte d'Orizzonte, quando la
-musica ha riaperto tutte le porte. **Epoca del Sogno**: ~980, poco prima dell'addio visto nel
+musica ha riaperto tutte le porte. **Epoca del Sogno**: ~980-981, poco prima dell'addio visto nel
 Sogno III (i Sogni non arrivano in ordine: farlo notare a chi ricostruisce la cronologia).
 
 ### Scena 1 — La locanda a soqquadro *(~10 min)*
@@ -227,7 +227,7 @@ smette di essere un contratto e diventa una storia di famiglia.
 
 **Innesco, parte 1**: [S12](sessione-12.md) — la notte a bordo del veliero dei Candidi, a
 fiducia guadagnata. **Innesco, parte 2**: [S15](sessione-15.md) — la prima notte dentro Vhelis.
-**Epoca del Sogno**: ~980–982.
+**Epoca del Sogno**: ~981–982.
 
 ### Parte 1 — Scena 1: La città impossibile *(~10 min)*
 
