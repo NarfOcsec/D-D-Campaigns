@@ -155,7 +155,7 @@ Reazioni agganciate alle biforcazioni 1-2 della
    si contano: due o più cambiano la sua traiettoria in S13 e S18
    ([scheda](../npcs/kellan-vor.md)).
 3. **Tentano di lasciare Atur prima della parata.** La Legione ha già chiuso la città per la
-   festa: posti di blocco su ogni porta, patttuglie sulla piana. La caccia si gioca — con
+   festa: posti di blocco su ogni porta, pattuglie sulla piana. La caccia si gioca — con
    dignità, non come binario mascherato: un'imboscata notturna in forze dichiaratamente
    soverchianti al primo valico — ma l'esito è lo stesso della piazza: la Dama li vuole vivi.
    Il quadro (c) si consuma su una strada karrnathi invece che sul carro, e S8 riparte
