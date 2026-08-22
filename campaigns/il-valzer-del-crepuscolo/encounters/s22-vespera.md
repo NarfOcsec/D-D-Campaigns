@@ -186,9 +186,8 @@ ai [finali della trama](../campaign.md#climax-e-finali-possibili):
 - **La fuga** — se la luce del Faro è dissigillata (campione 8 di S21 caduto: sempre vero, è
   obbligatorio), il party può **ritirarsi** dal salone tra una fase e l'altra: Vespera non insegue —
   non ne ha bisogno, il tempo lavora per lei. Ritirarsi e tornare è lecito ma costa: a ogni rientro
-  una nuova azione di tana si aggiunge alla rotazione? No — semplicemente il Congiungimento è più
-  avanti: descrivere un'era in meno nel mosaico, un pezzo di mondo in meno fuori dalle vetrate.
-  Pressione narrativa, zero contatori.
+  il Congiungimento è più avanti — descrivere un'era in meno nel mosaico, un pezzo di mondo in meno
+  fuori dalle vetrate. Pressione narrativa, zero contatori.
 
 ## Ritmo e respiro — note di regia
 
