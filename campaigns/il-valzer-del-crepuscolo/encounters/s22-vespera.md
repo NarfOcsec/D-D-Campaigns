@@ -95,6 +95,13 @@ abito vuoto — era un vestito di tempo. La voce resta.
 > e **strappa il Grifone dalla sua mente**: il cimelio d'infanzia, il leone-aquila sognato da un
 > bambino solo, reso reale e voltato contro di lui. «Me lo presti. Tanto non ricordi nemmeno chi te
 > lo ha dato.»
+>
+> **Nota anello** (coordinata con [loot.md](../loot.md)): l'anello, risvegliato come *Ring of
+> Protection* (SRD ⚠️) alla fine dell'Atto III, resta **inerte per tutta la fase 2** — il suo
+> potere è letteralmente sul campo, contro il party (il metallo si fa freddo al dito). Alla caduta
+> del Grifone il potere **torna all'anello**: descrivere il metallo che si riscalda è il segnale
+> di chiusura della fase. Se il sigillo 3 di [S21](s21-campioni-sigillo.md) (la Duellante) è ancora
+> attivo, l'anello — come ogni oggetto — è comunque spento in tutte le fasi.
 
 **Nemico**: **Il Grifone** — blocco **Adult blue dragon** (SRD, reskin ⚠️), **GS 16 · 15.000 XP**.
 Reskin dichiarato: criniera e ali d'aquila su corpo leonino titanico; il soffio di fulmine è
