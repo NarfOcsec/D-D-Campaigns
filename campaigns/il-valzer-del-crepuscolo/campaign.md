@@ -28,14 +28,8 @@ sedici anni, e cose antichissime che dormono sotto le fondamenta.
 | Ambientazione | Eberron, Khorvaire, anno 998 YK — 2 anni dopo Thronehold, 4 dopo il Giorno del Lutto |
 | Lingua | Italiano; termini di gioco in inglese dove d'uso (CR, Fireball…) |
 
-> 🔒 **Solo DM — Atti e milestone** (la scansione esatta delle scene è in `sessions/`):
->
-> | Atto | Sessioni | Livelli | Milestone di passaggio |
-> |---|---|---|---|
-> | I — «Il Seme e la Fiamma» | S1–S7 | 1→4 | liv. 2 dopo l'esame di Cala Regia (S2); liv. 3 dopo la carrozza blindata (S4); liv. 4 dopo la Parata della Notte (S7) |
-> | II — «L'Arca e la Matrona» | S8–S13 | 5→8 | liv. 5 dopo l'evasione dalla Salina (S8); liv. 6 dopo il risveglio dell'Arca (S9); liv. 7 dopo Corvia e Nivalta (S11); liv. 8 dopo la Battaglia delle Arche (S13) |
-> | III — «La Città Velata» | S14–S19 | 8→11 | liv. 9 dopo il Mausoleo delle Streghe (S15); liv. 10 dopo il salvataggio nel Vuoto Alto (S16); liv. 11 dopo lo scontro con Azhera e il Congiungimento (S19) |
-> | IV — «Oltre le Ere» | S20–S22 | 11→13 | liv. 12 dopo la traversata delle Ere Congiunte (S20); liv. 13 alla caduta degli otto campioni-sigillo (S21) |
+> 🔒 **Solo DM** — La struttura in atti e la tabella **vincolante** delle milestone — una sola per
+> tutta la campagna — sono nella [Trama](#progressione-di-livello-milestone).
 
 ## Ambientazione e geografia
 
@@ -435,4 +429,432 @@ Semi per sessioni future, tempi morti e side quest.
 
 ## Trama
 
-*(sezione compilata da plot-architect)*
+> 🔒 **Solo DM — tutta questa sezione.** A differenza del resto del file, da qui in avanti si
+> racconta l'intero arco della campagna, colpi di scena compresi: giocatori, tornate indietro.
+> I rimandi puntano alle schede di sessione in `sessions/` e agli incontri cardine in
+> `encounters/`; i retroscena integrali sono in `dietro-le-quinte.md`, che non va mai mostrato
+> al tavolo. I blocchi 🔒 annidati qui sotto segnano i segreti che nemmeno questa sezione
+> anticipa in chiaro.
+
+### Uno sguardo d'insieme
+
+Quattro atti, come i tre tempi di un valzer più la battuta che lo chiude. Nell'**Atto I** i PG
+diventano Sentinelle, ricevono il primo contratto e in una sola notte di parata scoprono che la
+guerra che li ha resi orfani sta per ricominciare — con una strega alla testa. Nell'**Atto II**
+perdono tutto: la libertà, la casa, e infine la certezza di sapere chi sono — perché la nemica è
+la donna che li ha cresciuti. Nell'**Atto III** il mondo si allarga di colpo: una città che non
+esiste su nessuna mappa, un padre creduto morto, il cielo stesso; e la vera regista del valzer
+esce dall'ombra. Nell'**Atto IV** il tempo si piega, e i PG vanno a prendere la nemica dove
+nessun esercito può seguirli: alla fine delle ere.
+
+La spina dorsale, in una riga: contratto → parata → prigione → il volo dell'Arca → il Faro →
+Vhelis → il cielo → il Monolito → il Castello oltre le Ere. La scansione scena per scena è in
+`sessions/` (una scheda per sessione, più gli [interludi dei Sogni](sessions/interludi-sogni.md)).
+
+### Progressione di livello (milestone)
+
+Tabella **vincolante e unica** per tutta la campagna: ogni altra sezione o scheda rimanda qui.
+Avanzamento a milestone: i PG salgono di livello alla fine della sessione indicata,
+indipendentemente da qualunque conteggio; il budget XP resta in uso solo per bilanciare gli
+incontri (`encounters/`, [loot.md](loot.md)).
+
+| Fine sessione | Evento che chiude la milestone | Livello |
+|---|---|---|
+| S2 | L'esame di Cala Regia | **2** |
+| S4 | La carrozza blindata | **3** |
+| S6 | L'ordine di Valdegrigia (e il Tumulo) | **4** |
+| S8 | L'evasione dalla Salina | **5** |
+| S9 | Il risveglio dell'Arca | **6** |
+| S11 | Corvia liberata e le rovine di Nivalta | **7** |
+| S13 | La Battaglia delle Arche | **8** |
+| S15 | Il Mausoleo delle Streghe | **9** |
+| S16 | Il salvataggio nel Vuoto Alto | **10** |
+| S18 | L'apice del Monolito | **11** |
+| S20 | La traversata delle Ere Congiunte | **12** |
+| S21 | La caduta degli otto campioni-sigillo | **13** |
+
+La S22 non assegna livelli: è il finale, e si gioca al 13.
+
+### Atto I — «Il Seme e la Fiamma» (S1–S7 · liv. 1→4)
+
+- **Obiettivo del party** — Diplomarsi Sentinelle; poi onorare il primo contratto: la Brigata del
+  Cardo e la libertà di Traverina.
+- **Antagonista e pressione** — La Legione del Basalto: occupazioni, posti di blocco, la Guglia
+  riattivata, la carrozza blindata del Maresciallo. Da S5, la **Dama del Crepuscolo**, che
+  scavalca Dalzun e prende la Legione per sé — con Kellan Vor al fianco come Cavaliere.
+- **Posta in gioco** — La patente e la neutralità di Roccalba; la libertà di Traverina; la vita
+  di Elara; la pace di Thronehold, che scricchiola a ogni annuncio.
+- **Gancio d'apertura** — L'esame: nessun cadetto sceglie la propria prima missione, la riceve.
+  Poi il valzer del diploma: Elara «assume» i PG prima ancora che imparino a dire di no.
+- **Svolta che apre l'Atto II** — La Parata della Notte finisce in disastro: la Dama piega il
+  colpo migliore delle accademie, abbatte un PG con una lancia di gelo — non letale, e questo è
+  quasi peggio — e li fa gettare in catene. Si risvegliano nella Salina.
+
+**Il duello e la Prova del Fuoco** ([S1](sessions/sessione-01.md)). All'alba dell'ultimo giorno di
+corso, un duello d'addestramento tra un PG e [Kellan Vor](npcs/kellan-vor.md) finisce a sangue e
+in infermeria: la rivalità che attraverserà tutta la campagna nasce qui. Poi
+[Livia Serracorta](npcs/livia-serracorta.md) conduce i cadetti alla Grotta delle Braci per
+l'ultima prova di ammissione, a tempo: il Sire delle Braci
+([incontro](encounters/s01-prova-del-fuoco.md)). Alla vigilia dell'esame, il rituale del Legame
+coi Custodi.
+
+**L'esame di Cala Regia** ([S2](sessions/sessione-02.md)). Sbarco all'alba sotto la città libera
+occupata, tenuta della piazza, e la scalata della Guglia di Sivis che la Legione sta riattivando —
+lassù, tra il Capitano Brusco e l'Attendente Malo che pasticciano coi sigilli, nidifica una
+matriarca arpia ([incontro](encounters/s02-esame-di-cala-regia.md)). La ritirata è a tempo: trenta
+minuti al molo col Ragno d'Assedio alle calcagna. Kellan sfonda oltre gli ordini e viene bocciato;
+i PG sono promossi Sentinelle. La domanda che resta appesa: *perché* la Legione riattiva le
+pietre parlanti?
+
+**Il Ballo del Diploma** ([S3](sessions/sessione-03.md)). Il valzer sotto le lune: una ragazza con
+l'emblema del cardo trascina un PG in pista, e prima di sparire ottiene — aggirando il Preside —
+il contratto che porterà le Sentinelle a Traverina. La stessa notte, per chi cerca emozioni: il
+Serraglio dopo il coprifuoco, il «Vecchio Denti» fuori dal recinto e l'area segreta dei cadetti
+([incontro](encounters/s03-serraglio-di-notte.md)). Nella prima vera notte di riposo dopo il
+Legame arriva il **primo Sogno di Dorian** (→ [interludi](sessions/interludi-sogni.md)).
+
+**Traverina e la carrozza blindata** ([S4](sessions/sessione-04.md)). Il primo contratto: la
+[Brigata del Cardo](npcs/brigata-del-cardo.md), il vagone nascosto, i piani entusiasti e il colpo
+grosso — l'arrembaggio alla carrozza blindata del Maresciallo in corsa sulla rotaia del fulmine,
+con lo sgancio della carrozza in piena velocità
+([incontro](encounters/s04-carrozza-blindata.md)). Il trofeo però è avvelenato: il «Maresciallo»
+catturato si disvela un doppio non-morto, un orrore karrnathi cucito per l'inganno.
+
+**La Stazione delle Pietre** ([S5](sessions/sessione-05.md)). [Dalzun](npcs/verek-dalzun.md)
+spezza il Silenzio in diretta su mezzo Khorvaire dalla vecchia stazione Sivis di Traverina: non
+per annunciare la guerra, ma per presentare la **Dama del Crepuscolo** — e al suo fianco, in
+divisa nuova, Kellan Vor. Segue la retata: Traverina rastrellata casa per casa, la fuga nei
+boschi con la Brigata ([incontro](encounters/s05-retata-di-traverina.md)), e Livia — sollevata
+dall'insegnamento per lo scandalo dell'esame — che raggiunge il party sul campo. Il **secondo
+Sogno** cade qui.
+
+**Valdegrigia e l'ordine** ([S6](sessions/sessione-06.md)). All'accademia continentale i vertici
+dei tre collegi consegnano ai PG un ordine congiunto senza appello: **eliminare la Dama** durante
+la parata di Atur. [Rook Malvani](npcs/rook-malvani.md), miglior tiratore di Valdegrigia, si
+unisce al party per il colpo. Il [Generale Vessk](npcs/aldric-vessk.md), contatto interno ad
+Atur, pretende però una prova di affidabilità: il Tumulo del Re Senza Nome, il sepolcro che
+nessuna casata reclama ([incontro opzionale](encounters/s06-tumulo-del-re-senza-nome.md)).
+
+**La Parata della Notte** ([S7](sessions/sessione-07.md)). Atur tra fiaccole e archi trionfali:
+il piano del Generale, i cunicoli sotto la Città della Notte, e il prezzo che Elara paga per il
+padre — le statue-gargoyle del palazzo scatenate su di lei, coi PG a strapparla alla pietra.
+Poi la parata ([incontro](encounters/s07-parata-della-notte.md)): Rook al momento del tiro esita
+(«non posso sparare a *lei*»), il colpo parte e uno scudo di forza lo devia; il duello con Kellan
+sul carro in corsa; e la Dama che chiude il valzer con una lancia di gelo. Scena dichiaratamente
+scriptata: qui la Dama non combatte — dimostra.
+
+### Atto II — «L'Arca e la Matrona» (S8–S13 · liv. 5→8)
+
+- **Obiettivo del party** — Prima sopravvivere: evadere, fermare i Vettori, salvare Roccalba.
+  Poi capire chi è davvero la nemica — e chi sono davvero loro.
+- **Antagonista e pressione** — La Dama alla testa della Legione: i Vettori in volo,
+  l'occupazione di Corvia, la caccia a «una ragazza chiamata Sorellina». Dall'interno, il golpe
+  del Tesoriere [Borvo](npcs/borvo.md); in campo aperto, Valdegrigia passata armi e bagagli al
+  nemico.
+- **Posta in gioco** — Roccalba e Nivalta sotto tiro; Corvia occupata; e la memoria stessa dei
+  PG: chi erano prima che i Custodi cominciassero a mangiare.
+- **Gancio d'apertura** — Non serve: i PG si svegliano in catene nella Salina. La sconfitta è il
+  gancio.
+- **Svolta che apre l'Atto III** — Nel teatro di Valdegrigia la Dama cade e Ilenia Craveri torna
+  in sé, svuotata; ma Elara crolla in coma: il Marchio è passato a lei. L'unico luogo al mondo
+  che sappia sigillare un Marchio ha un nome che non sta su nessuna mappa: Vhelis.
+
+**La Salina** ([S8](sessions/sessione-08.md)). Torri conficcate nel sale, l'interrogatorio
+condotto da un Kellan in divisa nuova, e i Cinerini — il popolo minuto asservito ai lavori
+forzati, che ripaga ogni gentilezza ricevuta (il gancio seminato a Cala Regia paga qui).
+L'evasione ([incontro](encounters/s08-evasione-dalla-salina.md)) si chiude con la vista peggiore
+delle Distese: i **Vettori** che partono. Nivalta è già condannata; Roccalba è la prossima. Nella
+cella, il **terzo Sogno**.
+
+**La Batteria, il golpe e il risveglio dell'Arca** ([S9](sessions/sessione-09.md)). Tre fuochi in
+una sessione. Il sabotaggio della Batteria del Giudizio: infiltrazione, sovraccarico, fuga prima
+del botto ([incontro](encounters/s09-batteria-del-giudizio.md)) — il party può dividersi o
+giocare le squadre in sequenza. A Roccalba, il golpe di Borvo: «consegnate i responsabili alla
+Dama, salviamo l'investimento». E sotto le fondamenta, la discesa nei livelli sepolti dei
+giganti: il **Cuore dell'Arca** ([incontro](encounters/s09-cuore-dellarca.md)) — Roccalba si
+solleva intera dalle scogliere mentre gli ultimi Vettori la mancano.
+
+**Ponte d'Orizzonte** ([S10](sessions/sessione-10.md)). L'Accademia volante, ingovernabile, si
+incaglia sul viadotto troncato al bordo del Lutto: il comune pacifista degli artefici, il
+conto dei danni, e la Legione che arriva a riscuotere col **Mangiafuoco**
+([incontro](encounters/s10-mangiafuoco.md)). La sera, il concerto: il Festival che
+[Filia](npcs/filia-passovento.md) insegue da un atto intero trova il suo palco. Dopo la musica,
+il **quarto Sogno**.
+
+**Corvia e Nivalta** ([S11](sessions/sessione-11.md)). La Legione occupa Corvia con Ravena e
+Torg da capitani, cercando «la Sorellina»: la liberazione si fa porta a porta, e passa dalla
+casa del PG con «Radici a Corvia» ([incontro](encounters/s11-corvia-occupata.md)). Poi il nord:
+le rovine di Nivalta colpita dai Vettori, dove il gancio «La promessa di Nivalta» presenta il
+conto ([incontro](encounters/s11-rovine-di-nivalta.md)). Al falò tra le macerie, Rook confessa
+ciò che ricorda da sempre: siete cresciuti **tutti** insieme — voi, Kellan, Filia, lui — in un
+orfanotrofio su un capo battuto dal vento; i Custodi vi hanno mangiato i ricordi; e la Dama del
+Crepuscolo è **la Matrona che vi ha cresciuti**: Ilenia Craveri, la moglie del Preside.
+
+**Capo Biancospino e i Candidi** ([S12](sessions/sessione-12.md)). Il pellegrinaggio alle
+proprie radici: il Faro diroccato, i campi di fiori piegati dal sale, i frammenti d'infanzia che
+riaffiorano (il «quaderno degli incubi» trova le sue pagine). Al largo, il veliero dei Candidi:
+la loro fiducia va guadagnata, e la notizia che custodiscono brucia — Mira, la Sorellina, è
+appena salpata «verso l'uomo del mare». Qui cade la prima parte del **quinto Sogno**.
+
+**La Battaglia delle Arche** ([S13](sessions/sessione-13.md)). Valdegrigia — anch'essa levatasi
+in volo — sperona Roccalba: abbordaggi sui ponti, il cadetto da salvare sul bordo del vuoto, il
+secondo duello con Kellan, e il Tricipite nell'atrio per chi lo cerca
+([incontro](encounters/s13-battaglia-delle-arche.md)). Nel teatro dell'accademia nemica, il
+confronto con la Dama: alla sua caduta Ilenia torna in sé — libera, svuotata, piena solo di
+rimorso — mentre Elara si accascia senza ferite. Il Marchio del Crepuscolo ha scelto la nuova
+portatrice.
+
+### Atto III — «La Città Velata» (S14–S19 · liv. 9→11)
+
+- **Obiettivo del party** — Salvare Elara: portarla dove un Marchio si può sigillare, e trovare
+  Mira prima di chiunque altro. Poi fermare il Monolito — e la strega che, da un altro tempo, lo
+  guida.
+- **Antagonista e pressione** — **Vespera**, che ora parla per bocca di Elara; la Legione che
+  scava nelle Distese Vitree e riesuma il Monolito; e Vhelis stessa, che vuole soltanto restare
+  nascosta e sigillare tutto ciò che teme — Elara compresa.
+- **Posta in gioco** — L'anima di Elara; Vhelis e il continente sotto il Diluvio; la verità sul
+  Giorno del Lutto e sul Silenzio, che qui vengono entrambe alla luce.
+- **Gancio d'apertura** — Ilenia, al Faro, con la prima informazione utile della sua vita
+  ritrovata: «solo Vhelis sa sigillare un Marchio». E Mira è diretta proprio là.
+- **Svolta che apre l'Atto IV** — Sull'apice del Monolito Azhera Congiunta cade, ma il rituale è
+  ormai innescato: Mira proietta il party lungo la catena delle streghe, dentro il
+  **Congiungimento delle Ere**. Da qui non si torna indietro — si va fino in fondo.
+
+> 🔒 **Solo DM — il disegno di Vespera, per intero.** Nell'**Ultima Era** — un futuro remoto e
+> morente — le Sentinelle sono degenerate in un'inquisizione che ha sterminato le streghe, e
+> Vespera è l'ultima: braccata, ha deciso di non esistere *in un* tempo ma *in tutti*. La sua
+> coscienza però risale il passato solo lungo la catena del Marchio, di portatrice in
+> portatrice, e da ogni anello raggiunge soltanto l'epoca adiacente: per congiungere **tutte**
+> le ere le serve il dono di **Mira**, l'unica mente capace di ancorare epoche remote. Il piano:
+> indossare una strega del presente (Ilenia, poi Elara), stanare Mira, e liberare **Azhera**
+> come corpo-vaso abbastanza potente da reggere il rituale sul Monolito. C'è un'ironia in fondo
+> a tutto questo: si rivela solo in S22 (vedi Atto IV) — non prima.
+
+**La traversata e la Città Velata** ([S14](sessions/sessione-14.md)). Da Capo Biancospino alle
+Distese Vitree: la rotaia morta che un tempo correva oltre il mare interno, le nebbie del Lutto
+dove le distanze mentono, e il PG del Legame che porta Elara in spalla, passo dopo passo, per
+giorni ([incontro](encounters/s14-distese-vitree.md)). Quando le forze finiscono, la nebbia si
+apre: **Vhelis**, la Città Velata, intatta e meravigliosa nel cuore esatto della ferita del
+continente — e murata nella vergogna dal Giorno del Lutto.
+
+**Il Mausoleo delle Streghe** ([S15](sessions/sessione-15.md)). Gli ultimi Sogni chiudono il
+cerchio: la rivolta di Vhelis, il sigillo di Azhera, e l'uomo goffo dei Sogni che oggi siede sul
+trono della città — il [Reggente Dorian Falk](npcs/dorian-falk.md); per il PG del «Sangue del
+Reggente», un padre creduto morto. [Ozlo](npcs/ozlo.md) offre il suo Bracciale per sopprimere il
+Marchio; il Consiglio di Vhelis preferisce la via di sempre: Elara al **Mausoleo delle
+Streghe**, nel criosigillo. Il party — e il PG del Legame davanti a tutti — va a strapparla al
+ghiaccio ([incontro](encounters/s15-mausoleo-delle-streghe.md)). Intanto le Distese partoriscono
+ciò che la Legione cercava scavando: il **Monolito di Basalto** avanza su Vhelis, con Kellan sul
+suo apice. Chi collega le date, qui, tocca la verità che nessuno osa dire: il collaudo del
+Monolito, quattro anni fa, fu il Giorno del Lutto.
+
+**Il Sigillo spezzato e il Vuoto Alto** ([S16](sessions/sessione-16.md)). Vespera prende Elara:
+la ragazza viola la Torre Celeste, sale con un'arca celeste al **Sacrario Incatenato** e spezza
+il Sigillo dell'Imperatrice. Azhera è libera — e col Sigillo muore anche il **Silenzio**: dopo
+sedici anni, tutte le pietre parlanti del continente si risvegliano in un solo istante. Poi
+Vespera lascia la presa, ed Elara resta a derivare nel **Vuoto Alto**: il salvataggio tra cielo
+e Anello è la scena madre dell'atto, e la ritirata passa per l'**Arca Vermiglia**, il vascello
+dei giganti a forma di drago infestato dalle Fameliche — che si ricompongono, se non le si
+abbatte in coppie dello stesso colore ([incontro](encounters/s16-arca-vermiglia.md)).
+
+**Il Diluvio e la promessa** ([S17](sessions/sessione-17.md)). Il Monolito raggiunge il **Campo
+del Pianto**: l'Anello si allinea, il velo verso l'esterno dei mondi si strappa, e il **Diluvio**
+di orrori si rovescia su Vhelis — la difesa della città si gioca in più quadri
+([incontro](encounters/s17-diluvio-su-vhelis.md)). Elara, atterrita da ciò che è stata mentre
+Vespera la indossava, chiede di tornare al criosigillo; ciò che ottiene invece è una promessa:
+«se mi perdo, aspettami nel campo di fiori». E il piano di Ozlo e Mira ribalta la disperazione
+in strategia: non impedire il rituale — **cavalcarlo**, fino all'èra della Tessitrice.
+
+**L'apice del Monolito** ([S18](sessions/sessione-18.md)). La scalata dell'obelisco in marcia:
+sulle rampe, Ravena e Torg guardano il Diluvio divorare il cielo e depongono le armi — non è
+questa la guerra che avevano giurato. In cima, Kellan: l'ultima resa dei conti
+([incontro](encounters/s18-apice-del-monolito.md)), redimibile fino all'ultimo scambio di colpi.
+
+**Azhera Congiunta** ([S19](sessions/sessione-19.md)). Nel cuore cavo del Monolito, l'Imperatrice
+rinata nel pieno del rituale, con Elara incatenata a sé come conduttura vivente: colpire Azhera
+senza uccidere Elara ([incontro](encounters/s19-azhera-congiunta.md)). Alla sua caduta il
+rituale non si spegne — divampa: Mira prende per mano le menti del party e le scaglia lungo la
+catena delle streghe. Le ere si fondono. Il valzer entra nell'ultima battuta.
+
+### Atto IV — «Oltre le Ere» (S20–S22 · liv. 12→13)
+
+- **Obiettivo del party** — Attraversare le ere congiunte, raggiungere il Castello, spezzare
+  Vespera. E poi — la parte che nessun piano copre — trovare la strada di casa.
+- **Antagonista e pressione** — Vespera nel proprio dominio; gli otto campioni-sigillo; e il
+  tempo stesso, che consuma chi non ha ricordi abbastanza saldi da fare da àncora.
+- **Posta in gioco** — Tutte le epoche in una: se il Congiungimento si compie, non ci sarà mai
+  stato altro che lei.
+- **Gancio d'apertura** — Il piano di Ozlo e Mira: dentro il rituale, fino in fondo. La promessa
+  del campo di fiori come àncora per il ritorno.
+- **Svolta finale** — Non c'è un atto successivo: c'è lo scioglimento. Il tempo si riavvolge, e
+  i PG assistono a come tutto è cominciato (vedi [Climax e finali](#climax-e-finali-possibili)).
+
+**Le Ere Congiunte** ([S20](sessions/sessione-20.md)). La caduta attraverso le epoche: i campi
+dell'Ultima Guerra, i cantieri dei giganti, i cieli neri dell'Era dei Demoni — frammenti di
+mondo saldati l'uno all'altro ([incontro](encounters/s20-ere-congiunte.md)). Un solo luogo
+ritorna identico in ogni epoca, come un perno: il **Faro**. È la soglia.
+
+**Il Castello oltre le Ere** ([S21](sessions/sessione-21.md)). Sospeso a catene sopra il Faro,
+il castello della Tessitrice. Otto campioni-sigillo ne custodiscono le sale: ciascuno «sigilla»
+narrativamente un vantaggio del party — i riposi, i Custodi, gli oggetti, ciò che il DM sceglie
+di pesare — finché non cade ([incontri](encounters/s21-campioni-sigillo.md)). L'ordine della
+riconquista lo decidono i PG: è l'ultimo dungeon, ed è loro.
+
+**Vespera** ([S22](sessions/sessione-22.md)). Il confronto finale, a fasi
+([incontro](encounters/s22-vespera.md)): la Tessitrice dell'Ultima Era combatte piegando il
+tempo, e a metà scontro strappa **il Grifone** dalla mente del PG che ne porta l'anello — e lo
+rende reale, contro il party, prima della propria forma ultima. Ciò che viene dopo la sua caduta
+è lo scioglimento: il tempo che si riavvolge, il Nulla-fra-le-Ere, il campo di fiori — vedi
+[Climax e finali possibili](#climax-e-finali-possibili).
+
+### Il filo dei Sogni (interludi trasversali)
+
+Cinque interludi — la scheda completa è in [interludi-sogni.md](sessions/interludi-sogni.md) —
+in cui i PG *sono* tre soldati di vent'anni fa: **Dorian Falk**, **Renna Sadi** e **Grosso
+Barrum**. Ogni Sogno è una scena giocata, non un racconto: parte quando il party riposa dopo un
+momento-chiave, senza preavviso e senza spiegazione.
+
+| Sogno | Innesco | Contenuto | Cosa consegna al tavolo |
+|---|---|---|---|
+| I | S3 — la prima notte di vero riposo dopo il Legame | Atur, ~976: la pattuglia sbagliata, il Pianoforte Blu, Maribel | Il tono — la guerra vista da tre soldati qualunque — e un nome: Maribel |
+| II | S5 — dopo la fuga da Traverina | La fuga: Renna e Grosso, il salto dalla scogliera | I tre sono sopravvissuti alla stessa macchina che oggi insegue i PG |
+| III | S8 — una notte nella Salina | Villalba: Raissa, la quiete, i mostri sulle colline, l'addio | Raissa — e un'eco dolorosa per il PG del «Sangue del Reggente» |
+| IV | S10 — dopo il concerto al Ponte | Il rapimento di Mira; l'inseguimento oltre il mare | Chi è «la Sorellina», e perché tutti la cercano |
+| V | S12 e S15 — dai Candidi, poi a Vhelis | Vhelis: il laboratorio di Ozlo, la rivolta, il sigillo di Azhera | Le chiavi dell'Atto III: la città, l'Imperatrice, la causa del Silenzio |
+
+La progressione delle rivelazioni è deliberata: prima un'altra guerra e un altro amore (Maribel,
+il cui volto tornerà in quello di Elara); poi Villalba e Raissa, che armano il gancio del
+«Sangue»; poi Mira, che dà un volto alla ragazza che tutti cercano; infine Vhelis e Azhera —
+così, quando l'Atto III si apre, i giocatori sanno già amare e temere ciò che vi troveranno.
+
+> 🔒 **Solo DM** — I Sogni li sta *inviando* Mira: sceglie lei cosa mostrare e quando, per
+> preparare il party a ciò che verrà. Lo si può capire solo in S12–S15; fino ad allora non
+> confermare nessuna teoria, nemmeno quella giusta. Il quinto Sogno, giocato a Vhelis, è anche
+> il momento in cui il PG del «Sangue» può riconoscere il padre — regia delicata: lasciare che
+> sia il giocatore ad arrivarci.
+
+### Spina dorsale e biforcazioni
+
+La linea principale è la sequenza degli atti qui sopra: regge da sola, ma non è un binario. Le
+fazioni reagiscono a ciò che i PG fanno — e queste cinque biforcazioni sono da giocare fino in
+fondo, non da riassorbire in fretta. Per ciascuna: cosa cambia, come reagiscono le fazioni, e
+come si rientra sulla spina dorsale (o come cambia il finale).
+
+**1. «Non siamo sicari» — i PG rifiutano o sabotano l'ordine (S6–S7).** L'ordine congiunto non
+si discute, ma i PG possono rifiutarlo apertamente — e presentarsi ad Atur da protettori di
+Elara — oppure sabotarlo dall'interno, mandando a vuoto il tiro. *Reazioni:* Valdegrigia schiera
+comunque un secondo tiratore (la parata avviene in ogni caso); il Preside li copre in silenzio,
+e quel silenzio peserà nel golpe di Borvo («insubordinati, *e* costosi»); il Generale Vessk, se
+hanno protetto sua figlia, contrae un debito che salderà nell'Atto III con informazioni sul
+Monolito. Se il sabotaggio è opera dei PG, la crisi di Rook esplode subito e la sua confessione
+di S11 può anticiparsi in forma parziale. *Rientro:* la Parata si chiude comunque con la
+dimostrazione di forza della Dama, che li vuole vivi e in catene — sicari o no. La Salina li
+aspetta, e la spina riprende in S8 identica.
+
+**2. La mano tesa a Kellan — ad Atur o alla Salina (S7–S8).** Kellan non è pronto: il sogno del
+Cavaliere e la volontà della Dama lo tengono stretto. Ma ogni tentativo sincero lascia una
+**crepa**: sul carro della parata esita un istante di troppo; alla Salina vieta ai suoi i ferri
+peggiori, e i Cinerini se ne accorgono. *Reazioni:* la Dama stringe il guinzaglio e Kellan
+sparisce dalla scena fino a S13; Ravena e Torg cominciano a dubitare con un atto di anticipo
+(la loro resa in S18 può diventare un aiuto attivo). *Rientro:* nessuna deviazione strutturale —
+cambia la traiettoria di Kellan: con due o più crepe, in S13 fugge invece di cadere e in S18 la
+redenzione è quasi scontata; senza alcun tentativo resta possibile, ma va sudata. Gli esiti sono
+negli [epiloghi](#climax-e-finali-possibili).
+
+**3. Il golpe riesce a metà — Roccalba divisa (S9–S10).** Se il party si spende male tra
+Batteria e Cuore dell'Arca, Borvo prende metà Accademia: il Comitato Disciplinare orfano di
+Kellan e il personale a libro paga passano con lui, il Preside finisce agli arresti nei propri
+alloggi. *Reazioni:* Casa Deneith manda un arbitro (nessuno vuole perdere la patente); la Dama
+tratta con Borvo la consegna dei PG mentre i Vettori sono in volo. *Rientro:* il risveglio
+dell'Arca resta l'unica salvezza per tutti — quando Roccalba si solleva grazie ai PG, il golpe
+si sgonfia da solo: nessuno degli «azionisti» sa pilotare un'Arca. Ma Borvo resta a bordo:
+sabotaggi, una taglia interna, la trattativa segreta col Mangiafuoco al Ponte (S10), e alla
+Battaglia delle Arche una quinta colonna che apre i portelli agli abbordatori (S13 più dura —
+nota per `encounter-designer`). Il finale non cambia; cambia quanto costa arrivarci, e l'epilogo
+di Borvo: processo Deneith al Ponte d'Orizzonte, o «redenzione contabile» se i PG gli dimostrano
+che l'investimento si protegge meglio con loro che con la Dama.
+
+**4. Elara resta nel criosigillo (S15).** Se i PG scelgono la prudenza di Vhelis — o arrivano
+tardi — Elara dorme nel Mausoleo. *Reazioni:* Vhelis approva e archivia; i Candidi rifiutano di
+consegnare Mira a chi ha «addormentato una sorella», e riconquistarli costa un'impresa in più;
+Dorian è l'unico a dirlo ad alta voce: «l'abbiamo già fatto una volta, ed è questo che ci ha
+resi». Ma Vespera **non** è sigillata con lei: risale la catena fino alla portatrice precedente
+— Ilenia, venuta a Vhelis con il party — e usa il suo corpo fragile per violare la Torre
+Celeste. Il Sigillo si spezza comunque, poco più tardi; Ilenia non sopravvive al Vuoto Alto.
+*Rientro:* fino a S17 il criosigillo è reversibile (Ozlo lo dice, Dorian implora): se i PG
+tornano a prenderla, la spina riprende con la promessa del campo di fiori e il senso di colpa
+come carburante. Se Elara resta sigillata: niente promessa — nel finale nessuno verrà a cercare
+chi si smarrisce nel Nulla-fra-le-Ere (la «vittoria amara» diventa l'esito naturale) — e in S19
+Azhera Congiunta incatena a sé **Mira** al posto di Elara: colpire l'Imperatrice senza uccidere
+la Sorellina.
+
+**5. La verità sulla Dama, detta troppo presto (S11–S13).** Da S11 i PG sanno chi è davvero la
+Dama — e sanno da Atur che il Maresciallo è stato scavalcato, o peggio. Possono gridarlo al
+continente: attraverso le stazioni che la Legione stessa ha riattivato, o passando per la fronda
+del Generale Vessk. *Reazioni:* la Legione si spacca — i veterani fedeli a Dalzun contro i
+devoti della Dama; Vessk esce allo scoperto e organizza la fronda; Valdegrigia arriva alla
+Battaglia delle Arche svuotata dalle diserzioni (S13 più leggera — nota per
+`encounter-designer`). *Contro-reazione:* la Dama accelera — la caccia alla Sorellina si fa
+ferale, e il riesumo del Monolito parte con settimane d'anticipo: il tempo guadagnato in S13 si
+ripaga con un Atto III più incalzante. Se la rivelazione arriva **senza prove**, l'effetto si
+rovescia: parola di mercenari contro la Prima Dama della Legione — taglie raddoppiate e porte
+chiuse. *Rientro:* la spina regge, perché a Vespera non serve la Legione intera: bastano
+Valdegrigia, Kellan e il Monolito. Ma se la fronda sopravvive fino alla fine, l'epilogo cambia:
+la Legione si scioglie, e Vessk la riconsegna pezzo per pezzo ai trattati che voleva bruciare.
+
+### Climax e finali possibili
+
+Il confronto con Vespera (S22) ammette tre esiti. In tutti, la chiave non è la potenza ma
+l'**àncora**: ciò che ciascun PG ha di abbastanza caro — una promessa, un legame, i ricordi
+riconquistati al Faro — da ritrovare la strada quando il tempo si riavvolge.
+
+**1. Vittoria piena — il cerchio si chiude.** Vespera cade in ogni sua forma, Grifone compreso.
+Il tempo riavvolgendosi trascina i PG attraverso un ultimo quadro: un giorno di tredici anni
+prima, al Faro, una strega morente «da nessun tempo» che consegna qualcosa a una giovane matrona
+— e un PG smarrito che le rivolge poche parole prima di essere strappato via. Poi, uno a uno, i
+PG con un'àncora tornano. Il PG del Legame si smarrisce per ultimo nel Nulla-fra-le-Ere — ed
+Elara lo trova, seguendo il campo di fiori della promessa. Chiusura: la festa a Roccalba, le
+lanterne sull'acqua, il valzer ballato per intero.
+
+> 🔒 **Solo DM — il loop.** Il quadro del passato è l'anno 985: la strega morente è **Vespera**,
+> che passa il Marchio a **Ilenia**; e le parole del PG smarrito — chi sono, da dove vengono, il
+> nome «Sentinelle» — sono ciò che spingerà i Craveri a fondare le accademie. Vespera, dando il
+> Marchio, ha creato con le proprie mani i propri carnefici; e l'inquisizione della sua èra è
+> figlia di quelle stesse Sentinelle. Il ciclo la genera e la uccide. I PG non lo spezzano
+> evitandolo: lo spezzano **dall'interno**, scegliendo di tornare. Rivelarlo solo qui, mai
+> prima.
+
+**2. Vittoria amara — chi resta nel Nulla-fra-le-Ere.** Vespera cade, ma qualcuno non ha àncora:
+il PG del Legame, se Elara è sigillata o perduta o la promessa non è mai stata fatta; oppure un
+PG che ha ceduto troppi ricordi ai Custodi e ha rifiutato di riprenderseli al Faro. Il mondo è
+salvo; a Roccalba, alla festa, una sedia resta vuota, e l'ultima inquadratura è il campo di
+fiori visto da chi non può più raggiungerlo. (Facoltativo, per DM clementi: lasciare aperta una
+via del ritorno come seme di un'avventura futura.)
+
+**3. Sconfitta — il Congiungimento parziale.** Se il party cade o cede, il rituale si compie a
+metà: le ere si saldano in un crepuscolo perpetuo su mezzo Khorvaire, dove ieri e fra-cent'anni
+si toccano agli angoli delle strade. I superstiti si risvegliano su una costa che conoscono, con
+la memoria che sbiadisce.
+
+> 🔒 **Solo DM** — Si risvegliano al Faro, tredici anni prima: il ciclo li ha riassorbiti nel
+> proprio punto d'origine e ricomincia. È un finale, non un game over: una campagna futura può
+> ripartire da qui — gli stessi orfani, un'altra giostra, e stavolta sanno (quasi) tutto.
+
+**Epiloghi variabili** (da montare in coda a S22 secondo le scelte fatte):
+
+- **Kellan Vor** — redento (biforcazione 2 o duello di S18): pescatore a Corvia con Ravena e
+  Torg, la lenza in acqua e nessuna voglia di parlare di gloria; incrinato ma non redento: cade
+  sull'apice del Monolito da soldato, non da Cavaliere, e Ravena e Torg portano a casa il suo
+  cappotto; mai toccato: si perde nel Congiungimento inseguendo il proprio sogno — e ai PG resta
+  il dubbio di averlo potuto salvare.
+- **Elara Vessk** — libera e viva: al campo di fiori, dove tutto era stato promesso; se la paura
+  vince: dopo la vittoria chiede lei stessa il criosigillo, e consegna al PG del Legame la
+  chiave, «per quando il mondo saprà fidarsi»; perduta: vedi vittoria amara.
+- **Dorian Falk** — se il PG del «Sangue» lo ha riconosciuto e accolto: la visita alla tomba di
+  Raissa a Villalba si fa in due, padre e figlio/a, e nessuno dei due sa da che parte cominciare;
+  in ogni caso: se i PG hanno dato fiducia a Vhelis, il Reggente vince la sua battaglia e la
+  barriera si apre al mondo; se hanno alimentato la paura (biforcazione 4), la Città Velata si
+  richiude — con lui dentro.
+- **Ilenia Craveri** — svuotata ma viva: riapre l'orfanotrofio al Faro con Anselmo, e stavolta i
+  bambini se la ricorderanno; morta nel Vuoto Alto (biforcazione 4): il Faro resta ad Anselmo,
+  che lo accende ogni sera — per nessuno, per tutti.
