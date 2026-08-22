@@ -174,7 +174,7 @@ Reazioni agganciate alle biforcazioni 1-2 della
 
 ## Cliffhanger
 
-La vigilia. Dalle terrazze, Atur accende diecimila fiaccole e le archi trionfali diventano
+La vigilia. Dalle terrazze, Atur accende diecimila fiaccole e gli archi trionfali diventano
 costole di luce. Il biglietto del Generale arriva senza firma: **«Domani notte, quando il carro
 passa sotto l'arco. Un colpo solo.»** Rook lo legge, guarda il manifesto della Dama un istante
 di troppo, poi ride e cambia discorso. Nessuno ci fa caso. Dovrebbero.
