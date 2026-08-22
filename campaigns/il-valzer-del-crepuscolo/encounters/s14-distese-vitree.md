@@ -86,7 +86,7 @@ entrambi.
 
 ### Tattiche
 
-**Turno 1**: la Prefica appare oltre la vetrata e usa il *Visage Orribile*; i Ricalchi passano
+**Turno 1**: la Prefica appare oltre la vetrata e mostra il suo volto (*Horrifying Visage*); i Ricalchi passano
 **attraverso i muri** addosso ai portatori di luce. La Prefica trattiene il Lamento finché almeno
 3 PG non sono entro 9 m (round 2-3), poi cerca di raggiungere Elara. **Fuga**: sotto 20 hp la
 Prefica si disfa nella nebbia (tornerà a vagare); caduta lei, i Ricalchi si disperdono.
