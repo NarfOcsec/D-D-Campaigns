@@ -98,9 +98,9 @@ ordine ricevuto: di norma «avanza e brucia» — distruggerlo è l'errore, non 
   qualunque cosa accada prima. La resa è l'**ultima umiliazione**: consegnano il cristallo con
   un inchino tremolante, incolpandosi a vicenda. Il Mangiafuoco, senza ordini, si accuccia come
   un cane da guardia spento. La scorta del quadro 1 fugge appena i capitani si arrendono.
-- **Dopo la resa**: la coppia degradata a lampionai del Ponte fino a nuovo ordine — se i PG li
-  trattano con clemenza, la sera del concerto Brusco applaude commosso (colore; la loro
-  parabola si chiude qui, come da [dietro le quinte — coppia comica]).
+- **Dopo la resa**: la coppia viene degradata a lampionai del Ponte fino a nuovo ordine — la
+  loro parabola (Guglia → carrozza → Ponte, una retrocessione a sconfitta) si chiude qui. Se i
+  PG li trattano con clemenza, la sera del concerto Brusco applaude commosso (puro colore).
 
 ## Varianti
 

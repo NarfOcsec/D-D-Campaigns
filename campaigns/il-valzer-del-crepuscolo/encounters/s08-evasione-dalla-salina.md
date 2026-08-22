@@ -33,7 +33,7 @@ partono. Aggancia direttamente [S9 — la Batteria del Giudizio](s09-batteria-de
 
 | Nemico | Base SRD | GS (CR) | XP | Note |
 |---|---|---|---|---|
-| Secondino di leva | **Guard** | 1/8 | 25 | Lancia e mezze rondelle di cuoio ⚠️ |
+| Secondino di leva | **Guard** | 1/8 | 25 | Equipaggiamento del blocco, divisa color sale ⚠️ |
 | Secondino | **Thug** | 1/2 | 100 | Manganelli e balestre ⚠️ |
 | Mastino cinereo | **Death Dog** (reskin dichiarato: segugio da guardia a due teste allevato dalla Legione, pelo color cenere) | 1 | 200 | ⚠️ |
 | Capoguardia di torre | **Bandit Captain** | 2 | 450 | ⚠️ |
