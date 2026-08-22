@@ -90,7 +90,11 @@ colore, una voce nei momenti estremi. Dove e quando si incontrano è nella tabel
 [campaign.md](campaign.md#i-custodi); molte prove sono opzionali, e superarle è sempre una
 scelta, mai un obbligo.
 
-- **Opzione del DM**: un Legame può valere al massimo **un *Charm* soprannaturale** del DMG
+- **Variante «il Dono e il Pegno»** ([campaign.md](campaign.md#i-custodi)): ogni prova superata
+  concede un incantesimo SRD tematico, usabile un numero di volte al giorno pari al bonus di
+  competenza (usi complessivi tra i Doni; maturazione al liv 8) — e ogni Legame costa **1 punto di
+  Saggezza permanente**. La tabella completa Custode→Dono vive in campaign.md: non duplicarla qui.
+- **Opzione del DM (alternativa più leggera)**: un Legame può valere al massimo **un *Charm* soprannaturale** del DMG
   (es. *Charm of Heroism*, *Charm of Restoration*, *Charm of Vitality* — ⚠️ **non SRD, da
   verificare su D&D Beyond**; se non disponibili, nessun sostituto meccanico: il Custode resta
   colore). Un solo Charm per PG alla volta, con gli usi limitati del Charm stesso.
