@@ -164,9 +164,13 @@ Le **meccaniche restano D&D 5e pure**: nessuna regola nuova. Tutto il "sistema d
 Spiriti antichissimi (frammenti dell'Era dei Demoni e dei sogni dei giganti) che accettano il
 **Legame** con un mortale. Il pegno: **si nutrono dei ricordi più vecchi** — è per questo che nessun
 cadetto legato ricorda bene l'infanzia. È la chiave del colpo di scena dell'Atto II.
-**Nessuna meccanica**: un Custode non dà bonus; è identità, colore e — a discrezione del DM — al
-massimo un *Charm* soprannaturale del DMG (`⚠️ da verificare`). I PG "incontrano" i Custodi in prove
-opzionali disseminate negli atti.
+**Nessuna meccanica** (regola base): un Custode non dà bonus; è identità, colore e — a discrezione
+del DM — al massimo un *Charm* soprannaturale del DMG (`⚠️ da verificare`). I PG "incontrano" i
+Custodi in prove opzionali disseminate negli atti.
+**Regola opzionale «il Dono del Custode»** (in `campaign.md`): ogni Custode, a prova superata,
+concede un incantesimo SRD tematico lanciabile un numero di volte al giorno pari al bonus di
+competenza — è l'analogo mascherato delle abilità delle evocazioni originali, reso con sole regole
+5e (stile Magic Initiate/incantesimi razziali, usi complessivi condivisi tra i Doni).
 
 | Evocazione originale | Custode | Dove si ottiene |
 |---|---|---|

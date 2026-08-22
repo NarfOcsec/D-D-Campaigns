@@ -275,10 +275,49 @@ Spiriti antichissimi — frammenti dell'Era dei Demoni e dei sogni dei giganti �
 momento il Custode è una presenza al fianco del cadetto — un'ombra di gelo, un odore di tempesta,
 una voce nei momenti estremi.
 
-**Zero meccaniche.** Un Custode non dà bonus, incantesimi o punti: è identità, colore e presenza
-scenica. A discrezione del DM, un Legame può al massimo valere un *Charm* soprannaturale del DMG
-(`⚠️ da verificare su D&D Beyond`). I Custodi «si incontrano» in prove opzionali disseminate negli
-atti: superarle è sempre una scelta, mai un obbligo.
+**Zero meccaniche (regola base).** Un Custode non dà bonus, incantesimi o punti: è identità, colore
+e presenza scenica. A discrezione del DM, un Legame può al massimo valere un *Charm* soprannaturale
+del DMG (`⚠️ da verificare su D&D Beyond`). I Custodi «si incontrano» in prove opzionali disseminate
+negli atti: superarle è sempre una scelta, mai un obbligo.
+
+### Regola opzionale — Il Dono del Custode
+
+Se al tavolo si preferisce che il Legame *si senta* anche sulle schede, usare questa variante:
+quando un PG **supera la prova di un Custode** (sconfiggendolo, o guadagnandone il favore nel modo
+che la prova richiede), il Legame si approfondisce e il Custode gli affida il suo **Dono**: un
+incantesimo, lanciabile **un numero di volte al giorno pari al bonus di competenza** del PG.
+
+- Il Dono si lancia **senza slot né componenti**, al livello base dell'incantesimo; gli usi si
+  recuperano con un riposo lungo.
+- Caratteristica da incantatore del Dono: Intelligenza, Saggezza o Carisma, **scelta al momento del
+  Legame** (CD dei tiri salvezza = 8 + bonus di competenza + modificatore; stesso modificatore per i
+  tiri per colpire dell'incantesimo).
+- Un PG può portare più Doni, ma **gli usi giornalieri sono complessivi** (bonus di competenza al
+  giorno, in totale, ripartiti come si vuole tra i Doni conosciuti): il Legame ha un solo fiato.
+- Tutti gli incantesimi sono SRD 5.1 (`⚠️ da verificare su D&D Beyond`); il «colore» dell'effetto
+  prende sempre la voce del Custode (le fiamme del Sire ruggiscono, la nebbia dei Geli scricchiola
+  di brina).
+
+> ⚖️ **Nota di bilanciamento.** Gli incontri della campagna sono tarati **senza** questa variante.
+> È un'aggiunta contenuta (≈ un incantesimo extra a testa per giornata ai livelli bassi), ma se il
+> party colleziona molti Doni conviene usare le varianti «per alzare» delle schede incontro, in
+> particolare nei finali d'atto ([S13](encounters/s13-battaglia-delle-arche.md),
+> [S19](encounters/s19-azhera-congiunta.md), [S22](encounters/s22-vespera.md)).
+
+| Custode | Dono (incantesimo SRD, ⚠️) |
+|---|---|
+| La Dama dei Geli | *Fog Cloud* (nebbia di cristalli di ghiaccio) |
+| Il Signore delle Folgori | *Thunderwave* |
+| Il Sire delle Braci | *Burning Hands* |
+| La Voce del Mare | *Sleep* (un canto che nessuno ricorda per intero) |
+| L'Ombra della Lampada | *Darkness* |
+| I Fratelli del Tumulo | *Enhance Ability* |
+| Il Bastione | *Protection from Energy* |
+| L'Urlo del Vento | *Wind Wall* |
+| Il Serpe degli Abissi | *Control Water* |
+| Il Tricipite | *Haste* (le tre teste vivono tre istanti in uno) |
+| Il Primo Sognatore | *Cone of Cold* (il soffio del primo sogno) |
+| Il Seme del Principio | *Sunbeam* |
 
 Tra i cadetti gira una diceria: chi stringe il Legame sogna meno, e ricorda meno. L'Accademia non
 commenta.
