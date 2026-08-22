@@ -167,10 +167,14 @@ cadetto legato ricorda bene l'infanzia. È la chiave del colpo di scena dell'Att
 **Nessuna meccanica** (regola base): un Custode non dà bonus; è identità, colore e — a discrezione
 del DM — al massimo un *Charm* soprannaturale del DMG (`⚠️ da verificare`). I PG "incontrano" i
 Custodi in prove opzionali disseminate negli atti.
-**Regola opzionale «il Dono del Custode»** (in `campaign.md`): ogni Custode, a prova superata,
-concede un incantesimo SRD tematico lanciabile un numero di volte al giorno pari al bonus di
-competenza — è l'analogo mascherato delle abilità delle evocazioni originali, reso con sole regole
-5e (stile Magic Initiate/incantesimi razziali, usi complessivi condivisi tra i Doni).
+**Regola opzionale «il Dono e il Pegno del Custode»** (in `campaign.md`): ogni Custode, a prova
+superata, concede un incantesimo SRD tematico lanciabile un numero di volte al giorno pari al bonus
+di competenza (usi complessivi condivisi; i Doni dell'Atto I maturano al liv 8) — è l'analogo
+mascherato delle abilità delle evocazioni originali, reso con sole regole 5e (stile Magic
+Initiate/incantesimi razziali). In cambio ogni Legame **costa 1 punto di Saggezza permanente**: il
+prezzo visibile dei ricordi mangiati (non esiste nell'originale — è un rinforzo nostro del tema
+della memoria, con tabella d6 dei ricordi svaniti che risemina il Faro e scelta finale nell'epilogo:
+congedare i Custodi e riavere punti e ricordi, o tenerli per sempre).
 
 | Evocazione originale | Custode | Dove si ottiene |
 |---|---|---|

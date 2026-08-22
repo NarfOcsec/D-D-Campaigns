@@ -280,12 +280,14 @@ e presenza scenica. A discrezione del DM, un Legame può al massimo valere un *C
 del DMG (`⚠️ da verificare su D&D Beyond`). I Custodi «si incontrano» in prove opzionali disseminate
 negli atti: superarle è sempre una scelta, mai un obbligo.
 
-### Regola opzionale — Il Dono del Custode
+### Regola opzionale — Il Dono e il Pegno del Custode
 
-Se al tavolo si preferisce che il Legame *si senta* anche sulle schede, usare questa variante:
-quando un PG **supera la prova di un Custode** (sconfiggendolo, o guadagnandone il favore nel modo
-che la prova richiede), il Legame si approfondisce e il Custode gli affida il suo **Dono**: un
-incantesimo, lanciabile **un numero di volte al giorno pari al bonus di competenza** del PG.
+Se al tavolo si preferisce che il Legame *si senta* anche sulle schede, usare questa variante in due
+metà inseparabili: ciò che il Custode dà, e ciò che si prende.
+
+**Il Dono.** Quando un PG **supera la prova di un Custode** (sconfiggendolo, o guadagnandone il
+favore nel modo che la prova richiede) e stringe il Legame, il Custode gli affida il suo **Dono**:
+un incantesimo, lanciabile **un numero di volte al giorno pari al bonus di competenza** del PG.
 
 - Il Dono si lancia **senza slot né componenti**, al livello base dell'incantesimo; gli usi si
   recuperano con un riposo lungo.
@@ -294,30 +296,59 @@ incantesimo, lanciabile **un numero di volte al giorno pari al bonus di competen
   tiri per colpire dell'incantesimo).
 - Un PG può portare più Doni, ma **gli usi giornalieri sono complessivi** (bonus di competenza al
   giorno, in totale, ripartiti come si vuole tra i Doni conosciuti): il Legame ha un solo fiato.
+- **Maturazione.** I Doni dei Custodi dell'Atto I nascono in forma trattenuta; quando il PG
+  raggiunge il **livello 8** (piena sintonia, fine Atto II) maturano nella forma piena indicata in
+  tabella, che sostituisce la precedente (stessi usi).
 - Tutti gli incantesimi sono SRD 5.1 (`⚠️ da verificare su D&D Beyond`); il «colore» dell'effetto
-  prende sempre la voce del Custode (le fiamme del Sire ruggiscono, la nebbia dei Geli scricchiola
-  di brina).
+  prende sempre la voce del Custode (le fiamme del Sire ruggiscono, il gelo dei Geli scricchiola).
+
+**Il Pegno.** Ogni Legame stretto **costa 1 punto di Saggezza, permanentemente** (anche il
+punteggio massimo scende di 1). Nessuna magia mortale lo restituisce finché il Custode abita
+l'anima: non è una ferita, è **un pezzo d'infanzia che il Custode ha mangiato**. Quando un PG paga
+il Pegno, il giocatore sceglie (o tira) *cosa* ha dimenticato — e lo annota senza dirlo agli altri:
+
+| d6 | Ciò che svanisce |
+|---|---|
+| 1 | Un volto: qualcuno che ti voleva bene, ora è solo una sagoma controluce |
+| 2 | Un luogo: sai di esserci stato felice, ma non sai più dove sia |
+| 3 | Una voce: una ninna nanna o un richiamo, ne resta solo il ritmo |
+| 4 | Un odore: fiori, forse? Qualcosa che ti faceva sentire al sicuro |
+| 5 | Un nome: lo avevi promesso a qualcuno, non ricordi a chi |
+| 6 | Un giorno intero: il più bello. Lo sai solo perché ti manca |
+
+> 🔒 **Solo DM** — Ogni voce della tabella è un frammento del Faro (la matrona, i campi di fiori, i
+> compagni). Riprendile parola per parola alla rivelazione di S11 e a Capo Biancospino (S12): sono
+> i semi del colpo di scena. Regole d'uso: il primo Legame fa parte del rito del diploma (un PG può
+> rifiutarlo, ma servirà un'altra ragione per la sua amnesia); **consiglio: massimo 3-4 Legami a
+> PG**; le classi basate su Saggezza pagano più caro — è una scelta drammatica, non una tassa.
+> **Epilogo**: nella vittoria piena (S22), ogni PG sceglie — congedare i Custodi e riavere i punti
+> (e i ricordi interi), o tenere il Legame per sempre, con tutto ciò che è costato.
 
 > ⚖️ **Nota di bilanciamento.** Gli incontri della campagna sono tarati **senza** questa variante.
-> È un'aggiunta contenuta (≈ un incantesimo extra a testa per giornata ai livelli bassi), ma se il
-> party colleziona molti Doni conviene usare le varianti «per alzare» delle schede incontro, in
-> particolare nei finali d'atto ([S13](encounters/s13-battaglia-delle-arche.md),
-> [S19](encounters/s19-azhera-congiunta.md), [S22](encounters/s22-vespera.md)).
+> Il Pegno la tiene in equilibrio da sola (pochi Legami, scelti bene); se comunque il party
+> colleziona molti Doni, usare le varianti «per alzare» delle schede incontro, in particolare nei
+> finali d'atto ([S13](encounters/s13-battaglia-delle-arche.md),
+> [S19](encounters/s19-azhera-congiunta.md), [S22](encounters/s22-vespera.md)). *Fly* (l'Urlo del
+> Vento, S11) arriva una tappa prima del «primo volo» previsto da [loot.md](loot.md): le scene che
+> il volo potrebbe scavalcare (S14, la traversata) reggono comunque — 10 minuti di volo non
+> attraversano tre giorni di Distese.
 
-| Custode | Dono (incantesimo SRD, ⚠️) |
-|---|---|
-| La Dama dei Geli | *Fog Cloud* (nebbia di cristalli di ghiaccio) |
-| Il Signore delle Folgori | *Thunderwave* |
-| Il Sire delle Braci | *Burning Hands* |
-| La Voce del Mare | *Sleep* (un canto che nessuno ricorda per intero) |
-| L'Ombra della Lampada | *Darkness* |
-| I Fratelli del Tumulo | *Enhance Ability* |
-| Il Bastione | *Protection from Energy* |
-| L'Urlo del Vento | *Wind Wall* |
-| Il Serpe degli Abissi | *Control Water* |
-| Il Tricipite | *Haste* (le tre teste vivono tre istanti in uno) |
-| Il Primo Sognatore | *Cone of Cold* (il soffio del primo sogno) |
-| Il Seme del Principio | *Sunbeam* |
+**I Doni, Custode per Custode** (incantesimi SRD 5.1, ⚠️ da verificare su D&D Beyond):
+
+| Custode | Prova (dove) | Dono | Forma matura (dal liv 8) |
+|---|---|---|---|
+| La Dama dei Geli | Rito del diploma, S1 (prima scelta) | *Hold Person* — il gelo serra le membra | *Ice Storm* |
+| Il Signore delle Folgori | Rito del diploma, S1 (prima scelta) | *Thunderwave* — il tuono che sbalza | *Lightning Bolt* |
+| Il Sire delle Braci | La Grotta delle Braci (S1) | *Burning Hands* — il ventaglio di fiamme | *Fireball* |
+| La Voce del Mare | La Guglia di Sivis (S2) | *Sleep* — il canto che nessuno ricorda intero | *Hypnotic Pattern* |
+| L'Ombra della Lampada | La lampada del Preside (S3) | *Darkness* — la notte portatile | *Fear* |
+| I Fratelli del Tumulo | Il Tumulo del Re Senza Nome (S6) | *Enhance Ability* — la forza dei due che sono uno | *Stoneskin* |
+| Il Bastione | Le rovine di Nivalta (S11) | *Death Ward* — il Bastione si frappone al colpo fatale | — |
+| L'Urlo del Vento | Corvia liberata (S11) | *Fly* — cavalcare l'urlo | — |
+| Il Serpe degli Abissi | Il veliero dei Candidi (S12) | *Control Water* — la marea obbedisce | — |
+| Il Tricipite | L'atrio di Valdegrigia (S13) | *Haste* — tre istanti vissuti in uno | — |
+| Il Primo Sognatore | Le profondità di Vhelis (S15/S17) | *Disintegrate* — il soffio che disfa | — |
+| Il Seme del Principio | Il cuore dell'Arca Vermiglia (S16) | *Sunbeam* — la colonna di prima luce | — |
 
 Tra i cadetti gira una diceria: chi stringe il Legame sogna meno, e ricorda meno. L'Accademia non
 commenta.
@@ -330,8 +361,8 @@ commenta.
 >
 > | Custode | Dove e quando |
 > |---|---|
-> | La Dama dei Geli | dote iniziale dell'Accademia (S1, colore) |
-> | Il Signore delle Folgori | dote iniziale dell'Accademia (S1, colore) |
+> | La Dama dei Geli | rito del diploma (S1): ogni cadetto sceglie lei **o** il Signore delle Folgori |
+> | Il Signore delle Folgori | rito del diploma (S1): l'altra metà della prima scelta |
 > | Il Sire delle Braci | la Prova del Fuoco alla Grotta delle Braci, con Livia (S1) |
 > | La Voce del Mare | in cima alla Guglia di Sivis, Cala Regia (S2, opz.) |
 > | L'Ombra della Lampada | lampada sigillata donata dal Preside (S3, opz.) |
@@ -340,8 +371,8 @@ commenta.
 > | L'Urlo del Vento | durante l'occupazione di Corvia (S11, opz.) |
 > | Il Serpe degli Abissi | dai Candidi, sul loro veliero (S12, opz.) |
 > | Il Tricipite | l'atrio di Valdegrigia, durante la Battaglia delle Arche (S13, opz.) |
-> | Il Primo Sognatore | le profondità di Vhelis (Atto III, opz.) |
-> | Il Seme del Principio | l'Arca Vermiglia (Atto III, opz.) |
+> | Il Primo Sognatore | le profondità di Vhelis (S15 o S17, opz.: una prova onirica sotto i laboratori di Ozlo) |
+> | Il Seme del Principio | il cuore dell'Arca Vermiglia, ripulita dalle Fameliche (S16, opz.) |
 
 ## Personaggi Giocanti
 
