@@ -41,7 +41,7 @@ emotivo della campagna: proteggerlo dal proprio orologio, e dargli tutto lo spaz
 - **Cosa può accadere**: i quadri 1-2 della [scheda incontro](../encounters/s11-corvia-occupata.md):
   posti di blocco da spazzare in fretta, poi la perquisizione **alla casa del PG** — la famiglia
   dietro il muro di scudi. Attenzione all'allarme del borgo (oltre 3 round, i quadri si fondono).
-  Qui può innescarsi la prova opzionale del Custode **l'Urlo del Vento** (zero meccaniche, →
+  Qui può innescarsi la prova opzionale del Custode **l'Urlo del Vento** (con la variante: Dono *Fly* e Pegno, →
   [I Custodi](../campaign.md#i-custodi)): si mostra a chi guida i civili sui tetti battuti dal
   vento.
 - **Cosa fa avanzare**: paga il gancio «Radici a Corvia»; mette in mano ai PG la prova che la
@@ -132,8 +132,8 @@ Da [loot.md](../loot.md) (S11):
   consegnata da Ravena e Torg con la resa.
 - **Nivalta**: il **Mantello del coro** — *Cloak of Protection* ⚠️ restituito dai superstiti «a
   chi ha scavato» (di diritto narrativo al PG della «promessa», se c'è).
-- **Custodi opzionali**: l'Urlo del Vento (Corvia), il Bastione (Nivalta) — colore, zero
-  meccaniche.
+- **Custodi opzionali**: l'Urlo del Vento (Corvia), il Bastione (Nivalta) — colore; con la variante,
+  Doni *Fly* e *Death Ward* col loro Pegno.
 
 ## Info e indizi
 

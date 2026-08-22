@@ -132,7 +132,7 @@ Da [loot.md](../loot.md) (S12):
 - **Fusto e Tarlo ritrovati**: la Brigata torna ad avere due voci (e le «informazioni fresche»
   di Tarlo riprendono a fluire).
 - **Custode opzionale**: la prova del **Serpe degli Abissi**, offerta dai Candidi a fiducia
-  piena (colore, zero meccaniche — → [I Custodi](../campaign.md#i-custodi)).
+  piena (colore; con la variante, Dono *Control Water* e Pegno — → [I Custodi](../campaign.md#i-custodi)).
 
 ## Info e indizi
 

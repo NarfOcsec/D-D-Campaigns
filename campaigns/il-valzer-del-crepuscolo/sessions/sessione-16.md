@@ -100,7 +100,7 @@ se non le si abbatte in coppie dello stesso colore.
 - **Cosa fa avanzare**: l'Arca Vermiglia si desta e scende su Vhelis — il party guadagna il
   vascello che porterà l'atto (e la campagna) fin dove serve. Per chi cerca, nelle profondità
   dorme il Custode **il Seme del Principio** ([campaign.md](../campaign.md#i-custodi), prova
-  opzionale, zero meccaniche).
+  opzionale; con la variante, Dono *Sunbeam* e Pegno).
 
 ### 5. La discesa — il cielo che si allinea (~10-15 min)
 

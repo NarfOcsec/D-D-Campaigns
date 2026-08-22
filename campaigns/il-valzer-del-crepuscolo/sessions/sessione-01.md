@@ -67,7 +67,8 @@ missione d'esame di Cala Regia ([S2](sessione-02.md)).
 - **PNG**: il Preside Anselmo Craveri (officia), Livia, i cadetti promossi alla Prova.
 - **Cosa può accadere**: la cerimonia della vigilia d'esame: chi non ha stretto Legami nella
   Grotta riceve in dote uno dei Custodi dell'Accademia — **la Dama dei Geli** o **il Signore
-  delle Folgori** (puro colore: [I Custodi](../campaign.md#i-custodi)). La formula del rito è
+  delle Folgori** — regola base: puro colore; con la variante, il primo Dono (*Hold Person* o
+  *Thunderwave*) e il primo Pegno ([I Custodi](../campaign.md#i-custodi)). La formula del rito è
   antica e nessuno la traduce per intero; un passaggio suona come *«ciò che fu vostro sarà suo»*.
   Ai cadetti che fanno domande, Anselmo offre il tè e parla delle sue rose.
 - **Cosa fa avanzare**: da stanotte i PG sono «legati» — e stanotte stessa, per chi presta
@@ -101,7 +102,7 @@ Da [loot.md](../loot.md), riga S1:
   cadetti si contendono.
 - **Il tempo dichiarato** alla Prova pesa sul rango iniziale (e quindi sulla paga: la scala è in
   [loot.md](../loot.md)).
-- **Custodi**: la Dama dei Geli e il Signore delle Folgori (dote, colore), il Sire delle Braci
+- **Custodi**: la Dama dei Geli o il Signore delle Folgori (rito del diploma), il Sire delle Braci
   (guadagnato in prova).
 
 ## Info e indizi (con ridondanza)

@@ -77,7 +77,8 @@ campagna cambia direzione: non più fermare una strega, ma **salvarne una**.
 - **Cosa può accadere**: la prova del Custode (regole d'interruzione nella
   [scheda incontro](../encounters/s13-battaglia-delle-arche.md#il-tricipite-opzionale--latrio-di-valdegrigia)):
   a metà pf, o se un PG regge tre round in mischia senza indietreggiare, le teste si fermano e
-  il **Tricipite concede il Legame** (zero meccaniche — [I Custodi](../campaign.md#i-custodi)).
+  il **Tricipite concede il Legame** (regola base: zero meccaniche; con la variante, Dono *Haste* e
+  Pegno — [I Custodi](../campaign.md#i-custodi)).
   Ucciderlo è possibile, e sbagliato.
 - **Cosa fa avanzare**: niente di obbligato — è identità e colore, cioè esattamente ciò che i
   Custodi sono. Tagliarla se il tempo stringe: il teatro non si taglia.
@@ -138,7 +139,7 @@ Da [loot.md](../loot.md) (riga S13):
 - **600 mo** di cassa di guerra (che [Borvo](../npcs/borvo.md) pretende di «amministrare»).
 - **L'Arca di Valdegrigia** sopravvive alla battaglia: destinarla ai superstiti di Nivalta è
   l'epilogo che il nord merita — lasciare che siano i PG a proporlo.
-- **Custode opzionale**: il Tricipite (identità e colore, zero meccaniche).
+- **Custode opzionale**: il Tricipite (identità e colore; con la variante, Dono *Haste* e Pegno — [I Custodi](../campaign.md#i-custodi)).
 - Milestone: **livello 8** a fine sessione.
 
 ## Info e indizi (con ridondanza)
