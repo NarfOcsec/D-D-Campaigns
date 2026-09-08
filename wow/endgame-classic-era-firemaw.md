@@ -315,11 +315,294 @@ esperienza in raid.
 - [ ] Tomberry: ilvl 75+, primo Naxx; Wristguards of Vengeance, Girdle of the Mentor, Legplates of Carnage
 - [ ] Eizenstein: Cloak of the Necropolis, Mark of the Champion; 20/40 splinter
 - [ ] Eizenstein: Rank 12-13 (set epico)
+- [ ] (se decidi l'alt) Priest nano a 60 con Alchemy 300 e attunement Naxx
 
 **Lungo periodo**
 - [ ] Tomberry: Gressil + The Hungering Cold, Kiss of the Spider, Shroud of Dominion
 - [ ] Eizenstein: **Atiesh**
 - [ ] (opzionale) Sulfuras o Thunderfury per Tomberry, Rank 14 per Eizenstein
+
+---
+
+## 9. Come si giocano (rotazioni, statistiche, cosa guardare nei log)
+
+### 9.1 Eizenstein in Naxx
+
+- **Priorità stat**: hit fino al 16% (Elemental Precision copre 3), poi spell damage, poi crit. Ogni 1% crit vale
+  molto per Fire grazie a Ignite e Master of Elements, ma solo se sei già al cap di hit.
+- **Rotazione**: apertura con Scorch ×5 per Improved Scorch (+15% fire vuln, mantienilo tu o accordati con gli
+  altri mage), poi Fireball. Combustion quando hai già 5 stack e i trinket attivi (ZHC + Restrained Essence:
+  usali insieme all'inizio del fight o al pull di fase). Fire Blast solo in movimento. Evoca gemma e mana
+  potion appena manca il 100% del valore (non aspettare di essere a secco).
+- **Threat**: hai Subtlety sul mantello, giusto. Se superi il tank, Ice Block (spec Frost) o smetti di castare:
+  in Naxx i tank con Salvation reggono ma Patchwerk e Thaddius sono i fight dove i mage muoiono di threat.
+- **Decurse è un tuo compito**: Noth (Curse of the Plaguebringer, se resta scatta un'esplosione AoE) e
+  Sapphiron (Life Drain) si gestiscono con Remove Lesser Curse a rotazione fra mage e druidi. Chiedi in
+  raid chi copre quali gruppi e mettiti un addon (Decursive) con la lista raid.
+- **Cosa guardare nei log**: uptime di Improved Scorch, percentuale di Fireball castate sotto Combustion,
+  morti evitabili (Heigan, Thaddius). Parse >75 con questo gear è realistico; se sei sotto 50 il problema è
+  quasi sempre hit o world buff.
+
+### 9.2 Tomberry in raid
+
+- **Priorità stat** per dual wield fury: **hit fino al 9%** (cap per gli attacchi gialli), poi crit, poi AP.
+  Con Edgemaster's la penalità dei glancing è ridotta, ecco perché i guanti restano. Sotto il 6% di hit gli
+  attacchi bianchi mancano troppo: Chromatic Boots, Drake Fang Talisman e Onslaught Girdle sono tutti pezzi
+  con hit, non è un caso che siano nella lista dei primi upgrade.
+- **Rotazione**: Bloodthirst ogni cooldown, Whirlwind quando Bloodthirst è in cd, Heroic Strike in coda ogni
+  colpo quando hai >50 rage (con la Krol Blade da 2.8 conviene; con armi più veloci in OH ancora di più),
+  Hamstring come rage dump sotto 30 rage se tutto è in cooldown. Execute sotto il 20% al posto di tutto
+  tranne Bloodthirst. Battle Shout: sei tu con Improved Battle Shout, mantienilo (dura poco).
+- **Cooldown**: Death Wish + Recklessness insieme all'inizio o sulla fase in cui il boss prende più danno
+  (Thaddius con le cariche, Patchwerk dopo il primo minuto, Loatheb sulla Spore). Death Wish aumenta il
+  danno subito: non usarlo sotto Frost Breath di Sapphiron o durante Hateful Strike se sei terzo in threat.
+- **Berserker Stance sempre**, tranne per Charge all'inizio (Battle) e per Intercept/Berserker Rage.
+  Con Tactical Mastery 5/5 puoi cambiare stance senza perdere rage.
+- **Threat**: Salvation è obbligatoria, e comunque su Patchwerk e Thaddius tieni Diamond Flask/LIP a portata.
+  Se superi il tank nei primi 10 secondi, la colpa è tua: aspetta 3 Sunder prima di Death Wish.
+- **Cosa guardare nei log**: hit percentuale sui bianchi, uptime di Battle Shout, Bloodthirst cast per
+  minuto (deve essere vicino al massimo), e Heroic Strike come percentuale del danno totale.
+
+---
+
+## 10. Naxxramas boss per boss, per le vostre due classi
+
+| Boss | Eizenstein (Mage) | Tomberry (Fury) | Loot che cercate |
+|---|---|---|---|
+| **Anub'Rekhan** | DPS sui Crypt Guard, stai lontano dal tank durante Locust Swarm | Nessuna meccanica speciale: DPS puro, occhio a Impale | Wristguards of Vengeance (W) |
+| **Faerlina** | Danno costante; non toccare le Worshipper (i priest le controllano per il Frenzy) | Aiuta a uccidere Followers, poi boss | Malice Stone Pendant (M, hai) |
+| **Maexxna** | Sei bersaglio di Web Wrap: chi è libero rompe i bozzoli | Rompi i Web Wrap in fretta, Death Wish per il 30% finale (Frenzy) | Kiss of the Spider (W), Wraith Blade (M alt), Widow's Remorse (W) |
+| **Noth** | **Decurse** Curse of the Plaguebringer, sempre; AoE sugli scheletri | AoE con Whirlwind sugli scheletri, DPS sul boss nelle fasi a terra | Band of the Inevitable (M, hai) |
+| **Heigan** | La danza: impara le 4 posizioni, l'errore è quasi sempre il ritardo del primo passo | La danza uccide i melee: nella fase di ballo fai solo movimento, niente DPS | Legplates of Carnage (W) |
+| **Loatheb** | Fase con guarigione bloccata: usa i pot di cura al tempo giusto (il raid decide la finestra); Spore per i melee | **Fungal Bloom** (Spore) è il momento migliore per un fury: crit enorme, Death Wish qui | Band of Unnatural Forces (W), Frostfire Shoulderpads (M, hai) |
+| **Razuvious** | Stai lontano dagli Understudy controllati; DPS quando il taunt è stabile | DPS sul boss solo quando i priest lo hanno tauntato con l'understudy | Girdle of the Mentor (W) |
+| **Gothik** | Lato vivo o morto: AoE sulle ondate con Flamestrike/Blizzard | Il tuo 0/32/19 è perfetto se serve un tank di supporto per il lato morto | The Soul Harvester's Bindings (M, hai) |
+| **Four Horsemen** | Rotazione dei Mark: segui il gruppo assegnato, non esistere "solo dps" | Se la gilda usa 8 tank, la spec Fury/Prot ti candida come tank di riserva per Thane/Blaumeux | Frostfire Robe (M, hai), Dreadnaught pezzi (tank) |
+| **Patchwerk** | DPS race pura: Combustion subito, gestisci la threat | Hateful Strike colpisce i melee più alti in threat con più HP: non superare i 3 tank. Rage infinita, HS ogni colpo | Cloak of the Shrouded Mists, Band of Reanimation |
+| **Grobbulus** | Se prendi Mutating Injection corri ai bordi e lascia la nuvola lontano | Uguale; i melee sono i più esposti alla Poison Cloud | Poco per voi due: è il boss "di passaggio" |
+| **Gluth** | **Qui la spec Frost ha senso**: i mage kitano gli zombie con Cone of Cold e Frost Nova, gli hunter con le trappole | DPS con Decimate: dopo il Decimate uccidi gli zombie a 5% prima che raggiungano Gluth | Rime Covered Mantle (M) |
+| **Thaddius** | Polarity Shift: cambia lato con la tua carica, non con il tuo gruppo | Il fight dove i fury parsano di più: stack di carica, Death Wish + Recklessness | Leggings of Polarity (M, hai), Plated Abomination Ribcage (W), Frostfire Circlet (M, hai) |
+| **Sapphiron** | Decurse Life Drain; dietro l'Ice Block per Frost Breath (oppure Ice Block in spec Frost) | Frost resist (vedi §11), dietro l'Ice Block a ogni volo | Cloak of the Necropolis (M), Shroud of Dominion e Slayer's Crest (W), Restrained Essence (M, hai) |
+| **Kel'Thuzad** | Frost Blast: distanza 10 metri da chiunque, sempre. Shadow Fissure: muoviti. Detonate Mana: se ce l'hai, allontanati | Fase 2: DPS con Chains in mente (se sei controllato puoi one-shottare i caster: chiedi di essere sheepato subito); Fase 3: DPS sotto i Guardian | Gem of Trapped Innocents, Doomfinger, Soulseeker (M) · Gressil, The Hungering Cold, Stormrage's Talisman, Kingsfall (W) · Base of Atiesh · Phylactery |
+
+Sono note di gioco, non una loot table: i pezzi indicati sono quelli che contano per voi due, non tutto ciò
+che droppa.
+
+---
+
+## 11. Sapphiron e la Frost Resistance
+
+Sapphiron è l'unico boss di Naxx dove il gear di resistenza conta davvero, e per un raid che deve ancora
+chiuderlo (i Delvers erano 11/15) è di solito il muro.
+
+- **Regola tipica delle gilde**: tank ≥ 250 FR, melee e healer 100-150 FR con buff, caster spesso più
+  bassi perché possono restare dietro ai blocchi di ghiaccio. Chiedi la policy esatta della **tua** gilda.
+- **Tomberry**: per la piastra l'unico set FR è **Icebane** (Bracers, Gauntlets, Breastplate), craftato
+  da un Blacksmith con i pattern di Argent Dawn e i Frozen Rune che droppano dentro Naxx. Se la gilda ha
+  un BS con i pattern, portagli i Frozen Rune che raccogli. Il resto della resistenza viene da un mantello
+  FR, dalla Greater Frost Protection Potion e da Frost Resistance Aura di un paladino. Glacial (stoffa) e
+  Polar (cuoio) non ti riguardano.
+- **Eizenstein**: Ice Block (spec Frost) per Frost Breath e Ice Barrier rendono il fight facile; in spec
+  Fire usa i pot di protezione e stai dietro ai blocchi. Non vale la pena craftare Glacial per un mage a
+  meno che la gilda non lo chieda.
+- **Buff**: Frost Resistance Aura (paladino), Juju Chill (+15 FR), Greater Frost Protection Potion
+  (assorbe 1950 danni frost).
+
+---
+
+## 12. GDKP: come funziona e come non farsi fregare
+
+Su Era i GDKP sono la spina dorsale del pug. Vale la pena capirli bene perché sono il modo in cui Tomberry
+si equipaggia e Eizenstein guadagna.
+
+**Come funziona**: ogni drop va all'asta in gold; alla fine la somma (la "pot") si divide fra i 40 presenti.
+Chi compra paga; chi non compra incassa la sua quota. Gli organizzatori prendono spesso una percentuale.
+
+**Da carry (Eizenstein)**: sei pagato per il tuo DPS. Un mage con parse alto e world buff riceve inviti
+prioritari e talvolta un "cut" maggiorato: chiedilo se hai log da mostrare.
+
+**Da bidder (Tomberry)**: il rischio è sovrapagare pezzi che comunque sostituiresti a breve. Regola:
+
+> Prezzo massimo = (gold che guadagni in un'ora di gioco) × (ore che ci metteresti a ottenerlo altrimenti)
+> × 0,7 per il fatto che non è garantito nemmeno col gold.
+
+Se un pezzo "intermedio" (es. Brutality Blade) costa più della metà del pezzo Naxx equivalente, salta e
+tieni i gold per il Naxx. Le eccezioni sono i pezzi che restano BiS: Lionheart, Chromatic Boots, Onslaught
+Girdle, Edgemaster's, Drake Fang Talisman.
+
+**Sicurezza**:
+- Cerca l'organizzatore nei log pubblici (Warcraft Logs) e nelle liste della community di Firemaw; un
+  GDKP serio ha regole scritte (split, cut, minimo puntata) postate prima del pull.
+- Non versare mai gold "in anticipo" per un posto; la pot si paga al drop, con trade visibile.
+- Non essere tu il lead senza addon che traccia le puntate (Gargul o simili).
+- Tieni i gold spartiti fra i due personaggi: la banca di gilda non è una banca.
+
+---
+
+## 13. Un terzo personaggio: sì, ma quale
+
+### 13.1 Prima la domanda: serve davvero?
+
+Su Era hai già due personaggi con i lockout settimanali di Naxx e AQ40, cioè quattro raid a settimana
+possibili. Il tempo di un terzo personaggio compete con la scalata di rank e con il gearing del warrior.
+Il livellamento su Era **non ha buff XP permanenti**; le stime realistiche:
+
+| Metodo | Tempo | Note |
+|---|---|---|
+| Solo con guida (RestedXP o simili) | 5-8 giorni /played, cioè 120-190 ore | a 10 ore a settimana sono 3-4 mesi |
+| Dungeon boost da mage (SM, ZF, Mara, BRD) fino al 58, poi quest | 40-60 ore | noioso, costa gold o favori in gilda; su Era è consentito |
+| Misto: boost fino ai 40, quest con la gilda dopo | 70-100 ore | il compromesso più sano |
+
+Quindi: un alt ha senso **solo** se colma un buco che i tuoi due personaggi non possono colmare. E il buco
+c'è: nessuno dei due può guarire, e il tank lo copre già la seconda spec di Tomberry.
+
+### 13.2 Le opzioni (Alliance, Era)
+
+| Classe / razza | Posto in raid e GDKP | PvP | Livellamento | Gold e farm | Sinergia con i tuoi due | Novità per te | Totale /30 |
+|---|---|---|---|---|---|---|---|
+| **Priest nano** (Holy/Disc raid, Shadow PvP) | 5 | 4 | 2 | 2 | 5 | 5 | **23** |
+| **Paladin umano/nano** (Holy) | 5 | 2 | 2 | 1 | 4 | 4 | 18 |
+| **Druid elfo** (Resto raid, Feral PvP) | 3 | 5 | 3 | 4 | 3 | 5 | 23 |
+| **Hunter nano/elfo** | 2 | 3 | 5 | 5 | 2 | 3 | 20 |
+| **Warlock umano/gnomo** | 3 | 4 | 4 | 4 | 2 | 2 | 19 |
+| **Rogue umano** | 2 | 5 | 3 | 4 | 1 | 3 | 18 |
+| Warrior tank | coperto dalla seconda spec di Tomberry | | | | | | — |
+| Shaman | non esiste per l'Alliance su Era | | | | | | — |
+
+Come leggere la tabella: "Posto in raid" è quanto è facile entrare in un raid gilda o in un GDKP; "Sinergia" è
+quanto l'alt rende migliori Eizenstein e Tomberry.
+
+### 13.3 La raccomandazione: **Priest nano**
+
+Perché proprio lui, e non "un healer qualsiasi":
+
+1. **Fear Ward.** È il racial del priest nano ed è l'unico modo, per l'Alliance, di prevenire un fear.
+   Onyxia, Magmadar e Nefarian hanno fear di raid; ogni raid Alliance vuole nani priest sui tank, e il
+   tuo warrior (che in spec Fury/Prot potrebbe tankare) è il primo beneficiario.
+2. **Healer = invito garantito.** In Naxx 40 servono 10-12 healer; sono gli ultimi slot che si riempiono,
+   sia in gilda che nei GDKP. Un priest a ilvl 60 entra dove un rogue a ilvl 70 aspetta.
+3. **PvP vero.** Con la dual spec, Shadow (SL, Shadowform, Mind Blast burst) o Disc (Power Infusion,
+   Silence non c'è: è TBC) è una delle classi più forti nei BG di vanilla. Se ti stanchi di rankare col mage,
+   il priest è un secondo candidato credibile a R10-R13.
+4. **Loot senza conflitti.** Il priest prende stoffa da healer (T3 Faith, Crystal Webbed Robe ecc.),
+   il mage stoffa da dps: quasi nessuna sovrapposizione, e il warrior non c'entra niente. Tre personaggi,
+   tre loot table.
+5. **Il ruolo che ti manca.** Hai giocato due DPS: guarire in vanilla è un gioco diverso (Downranking,
+   gestione mana, Spirit e cinque secondi), ed è quello che rende un raid vecchio di nuovo interessante.
+
+Contro: livella lento (Shadow con Spirit Tap va bene, ma è comunque tra le classi più lente) e farma
+male. Il farm lo fa già il mage.
+
+**Build**: livellamento Shadow (Spirit Tap, Mind Flay, Shadowform al 40). A 60 dual spec: **Disc/Holy
+raid** (Improved Power Word: Shield, Inner Focus, Meditation, Spiritual Guidance, Improved Healing,
+Spirit of Redemption) e **Shadow PvP** (Shadowform, Mind Blast, Psychic Scream, wand: in vanilla non esistono Silence né
+Shadow Word: Death, il gioco è controllo e pressione) o Disc PvP con Power Infusion.
+
+**Professioni**: **Alchemy + Herbalism**. Due DPS che raidano con world buff bruciano decine di gold
+in consumabili a serata; un alchimista con Flask of Supreme Power (ricetta da Ras Frostwhisper a
+Scholomance), Mongoose, Greater Arcane Elixir e Greater Fire Protection trasforma un costo fisso in un
+ricavo. Tailoring per il priest non paga: i pezzi healer buoni arrivano dai raid.
+
+### 13.4 Se invece vuoi divertirti e basta: Druid elfo della notte
+
+Seconda scelta, stesso punteggio ma per motivi opposti. Resto in raid (Innervate su un healer, Mark of the
+Wild, Rebirth), Feral nei BG: è il miglior portabandiera di WSG e il miglior personaggio da world PvP
+(Travel Form, Stealth, Nature's Grasp). Herbalism in Travel Form è il modo più veloce di raccogliere.
+Il limite è che i raid tengono 2-3 druidi e i posti sono contesi; i GDKP ne prendono uno.
+
+### 13.5 Se vuoi la scelta "zero sbattimenti": Hunter
+
+Livella da solo più in fretta di chiunque, farma gold in solitaria (Tribute run in Dire Maul, farm dei
+Silithid, DM East), e in raid serve per Tranquilizing Shot su Magmadar, Chromaggus e Gluth. Ma il DPS in
+Naxx è basso, gli hunter sono tanti e la sinergia con i tuoi due è quasi nulla. È l'alt da "voglio
+rilassarmi", non da "voglio migliorare il mio endgame".
+
+### 13.6 Perché non Paladin, non Warlock, non Rogue
+
+- **Paladin**: healer eccellente e Blessing of Salvation risolve la threat del tuo warrior, ma in PvP
+  vanilla è debole, livella malissimo e ha un solo modo di giocare (Holy). Se sei sicuro di non volere mai
+  fare PvP con l'alt, è pari al priest e più semplice.
+- **Warlock**: replica il mage (stoffa, ranged) e vi contendereste il loot di Naxx. Guadagna con summon e
+  Soulstone, ma il mage guadagna già.
+- **Rogue**: il più forte in PvP, ma in raid compete con Tomberry su Kiss of the Spider, Band of Unnatural
+  Forces, spade e daghe di KT. Non aggiungere un secondo melee alla stessa famiglia.
+
+### 13.7 Piano di livellamento (se lo fai)
+
+1. Crea il priest nano, Shadow. Bag da 14+ dal mage, 50 gold di partenza, mount al 40 pagata dal mage.
+2. 1-20 quest con guida (Dun Morogh, Loch Modan, Westfall); wand da Enchanting o AH: il wand è il tuo DPS.
+3. 20-40: alterna quest e dungeon con la gilda (Deadmines, SFK, SM). SM è dove il boost mage è più
+   efficiente se hai un guildie disponibile: 30-42 in poche ore.
+4. 40-58: ZF, Mara, BRD in gruppo; STV e Tanaris a quest. Herbalism dal livello 1 e Alchemy da subito.
+5. 58-60: Plaguelands e Silithus, quindi Argent Dawn per il Naxx attunement subito.
+6. Pre-raid: non serve il set Devout completo. Scholo, Strat e BRS per i pezzi healer noti, poi ZG e
+   AQ20, poi MC in pug: gli healer entrano in MC e BWL con gear da dungeon, e da lì in AQ40.
+
+Tempo realistico: tre mesi a ritmo casual, sei settimane se ti fai boostare.
+
+---
+
+## 14. Se la gilda non chiude Naxx
+
+L'ultimo dato pubblico sui Dungeon Delvers è 11/15 Naxx nel 2023. Controlla su Warcraft Logs il progresso
+attuale prima di pianificare intorno alla gilda. Tre scenari:
+
+- **La gilda chiude 15/15**: tutto il piano sopra vale così com'è; il mage prende KT e Sapphiron in gilda,
+  il warrior entra appena pronto.
+- **La gilda è ferma a 11-13/15**: gli ultimi upgrade del mage (KT, Sapphiron) li prendi nei GDKP Naxx di
+  Firemaw, che chiudono. In gilda continui per Atiesh e per il warrior.
+- **La gilda non raida più**: su Firemaw ci sono community pug stabili e liste gilde in reclutamento
+  (guildsofwow, forum Blizzard EU). Con un mage ilvl 86 entri ovunque; il warrior entra con te.
+
+Il principio: **non aspettare la gilda per gli obiettivi individuali**. Su Era la gilda è il posto dove
+si fanno Atiesh e i progetti lunghi; i pezzi singoli si comprano.
+
+---
+
+## 15. La lista delle cose che puoi fare solo qui
+
+Era è l'unico posto dove il gioco del 2006 è intero, fermo e pieno di gente. Questa è la lista da appendere:
+ogni riga è un motivo per loggare.
+
+**Le tre leggendarie**
+- [ ] **Atiesh** (Eizenstein). 40 splinter, una Base da Kel'Thuzad, una Testa da C'Thun, un fantasma a
+  Stratholme. Il bastone del Guardiano di Tirisfal: il mage che lo porta apre un portale per Karazhan e
+  tutto il raid lo vede.
+- [ ] **Thunderfury, Blessed Blade of the Windseeker** (Tomberry). Due Bindings (Garr e Baron Geddon, MC:
+  il raid che su Firemaw farmi in pug ogni settimana), 10 Elementium Bar (Thorium Brotherhood, Elementium
+  Ore dal Blackwing Lair), l'Essence of the Firelord da Ragnaros, e Thunderaan evocato a Silithus davanti
+  a chi passa. Come MH di un fury non è BiS, ma il proc rallenta e fa threat: con la seconda spec diventi
+  il tank più richiesto del server. È il progetto da 6 mesi che rende ogni MC di Tomberry non noioso.
+- [ ] **Sulfuras, Hand of Ragnaros** (Tomberry, se ha Blacksmithing). Eye of Sulfuras da Ragnaros e il
+  Sulfuron Hammer craftato: un martello a due mani in fiamme per la spec Arms quando ti va di
+  fare Mortal Strike nei BG.
+
+**I titoli**
+- [ ] **Grand Marshal** (Eizenstein). Rank 14, titolo permanente davanti al nome, armi con la skin più
+  riconoscibile del gioco. Da Rank 7 con il sistema fisso di Era sono settimane, non anni.
+- [ ] **La mount PvP** al Rank 11 (Black War Steed, Ram, Tiger o Mechanostrider): il modo più
+  bello di dire "sono arrivato fin qui" senza dire niente.
+
+**I set completi**
+- [ ] **Frostfire Regalia 9/9** (Eizenstein), non per le stat ma perché il set T3 mage è il più bello che
+  Blizzard abbia mai fatto per un caster. Ti mancano due pezzi.
+- [ ] **Dreadnaught** per Tomberry se ti scopri tank: il T3 warrior è il set che ogni warrior di vanilla
+  ha sognato.
+
+**I rituali**
+- [ ] Un **parse day**: tutti i world buff salvati col Chronoboon, consumabili completi, Naxx in gilda. Non
+  per il numero, per la sensazione di un raid che va come deve.
+- [ ] Consegnare **tu** la testa di Onyxia a Stormwind e vedere il buff sul server.
+- [ ] Un **Tribute run** di Dire Maul senza uccidere i boss: è il dungeon meglio disegnato di vanilla.
+- [ ] Una **Darkmoon Faire** con la carta giusta: Blue Dragon per il priest, Maelstrom per il warrior.
+- [ ] **Naxxramas 15/15 con la tua gilda**, non in GDKP. Se i Delvers sono ancora a 11, il warrior in
+  spec tank e il priest nano con Fear Ward sono esattamente i due pezzi che mancano a una gilda che
+  non chiude Sapphiron e Kel'Thuzad.
+
+**Le stupidaggini che contano**
+- [ ] Un duello davanti a Ironforge in spec Frost con Ice Block, Cold Snap, Ice Block.
+- [ ] Portare il priest a 60 il giorno in cui BlizzCon annuncia (o non annuncia) Classic+: qualunque cosa
+  succeda, tu sei sull'unico server dove il vanilla resta intero.
 
 ---
 
