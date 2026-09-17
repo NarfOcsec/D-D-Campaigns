@@ -6,9 +6,13 @@
 
 ## Concept in una frase
 
-**Un bambino piccolo come una sardina, cresciuto da una mamma che lo copre di sciarpe anche ad agosto,
-scappa di casa dentro un barile di sardine e si imbarca clandestino su una nave corsara: da lì comincia
-la sua epopea sui Sette Mari.**
+**Un bambino cresciuto da una mamma che lo copre di sciarpe anche ad agosto scappa di casa nascosto
+in un barile di sardine e si imbarca clandestino su una nave corsara. Quando la ciurma lo scopre,
+l'odore è così forte che nessuno chiede come si chiama: da quel momento è, per tutti, Mozzo Sardina.**
+
+I personaggi sono **umani** (non animali antropomorfi): il mondo è un arcipelago di marinai, pescatori,
+corsari e pirati. I nomi "ittici" (Nonno Sgombro, Capitana Murena, il cuoco Acciuga) sono soprannomi
+da porto, come si usa davvero tra la gente di mare.
 
 ## Origine
 
@@ -25,7 +29,8 @@ marinaio che gli racconta storie di mare proibite dalla mamma. È lui che accend
 |------|--------------------------|
 | **Coraggio vs. paura** | Sardina è piccolo e ha paura di tante cose, ma "guizza" lo stesso. Il coraggio non è non avere paura. |
 | **Libertà e legami** | Scappare di casa non significa smettere di volere bene. Il patto delle lettere (v. sotto) tiene insieme le due cose. |
-| **Essere piccoli è un superpotere** | Sardina passa da oblò, botole, fessure. Vede quello che i grandi non vedono. |
+| **Il nome te lo dai con quello che fai** | A casa ha un nome scelto dalla mamma; sulla nave si guadagna un soprannome. Nella serie il nome vero resta "di casa" e Mozzo Sardina diventa chi è davvero. |
+| **Essere piccoli è un superpotere** | Sardina è il più piccolo a bordo: passa da oblò, botole, fessure. Vede quello che i grandi non vedono. |
 | **La mamma apprensiva** | Non è mai ridicolizzata: la sua paura viene da amore. Nel corso della serie impara a lasciar andare, e Sardina impara che essere protetti non è una vergogna. |
 | **Una ciurma è una famiglia** | I corsari dell'Acciuga Nera sono pasticcioni, litigiosi e affezionati. |
 
@@ -44,6 +49,25 @@ minacciosi ma buffi. Ogni libro ha un momento di tenerezza vera (di solito legat
 - **L'Acciuga Nera**: brigantino nero e stretto, "veloce come un'acciuga e altrettanto puzzolente".
   Temuta in tutti i porti per la fama, che è molto più feroce della ciurma.
 - **La Sanguisuga**: nave della pirata Capitana Murena, nemesi ricorrente.
+
+## Il battesimo nel barile (scena fondativa)
+
+È la scena che dà il nome alla serie e va trattata come un momento "da ricordare":
+
+1. Sardina viaggia nascosto nel barile per un giorno e una notte. Le sardine (sotto sale) gli entrano
+   ovunque: nei capelli, nelle scarpe, nelle tasche.
+2. La ciurma lo scopre **per l'odore**, non per rumore o per caso: il cuoco Acciuga segue la puzza
+   per la stiva come un segugio, con tutta la ciurma dietro in fila indiana.
+3. Quando lo tirano fuori, lui prova a dire il suo nome vero, ma l'odore è talmente forte che
+   tutti si tappano il naso e nessuno lo sente. Capitan Barracuda decreta: *"Non m'interessa come
+   ti chiami. Tu puzzi di sardina e sei un mozzo. Sei **Mozzo Sardina**."*
+4. Il nome vero (quello scelto dalla mamma) lo useranno solo la mamma e, nei momenti seri, il Capitano.
+   Da decidere: lo sveliamo al lettore subito o lo teniamo come gag ricorrente ("il mio nome vero
+   ve lo dico, ma solo se promettete di non ridere")?
+
+**L'odore come gag ricorrente del Libro 1**: per tutto il primo volume Sardina puzza di sardina.
+Il gatto di bordo Pescecane lo segue ovunque. Non riesce a nascondersi da nessuno. Nel finale l'odore
+gli salva la pelle (v. scaletta). Dal Libro 2 in poi l'odore è passato, ma il nome è rimasto.
 
 ## Il patto delle lettere (motore narrativo della serie)
 
@@ -69,7 +93,8 @@ l'avventura. E ogni libro contiene una scena in cui la mamma, da casa, legge la 
 
 ## Frasi ricorrenti
 
-- Apertura: *"Mi chiamo Sardina. Mozzo Sardina."*
+- Apertura: *"Come mi chiamo? Dipende a chi lo chiedete. La mamma mi chiama in un modo. La ciurma
+  dell'Acciuga Nera mi chiama Mozzo Sardina. E la colpa è tutta di un barile."*
 - Esclamazione: **"Per mille sardine sott'olio!"**
 - Quando ha paura: *"Ho avuto paura? Sì. L'ho fatto lo stesso? Anche."*
 - Chiusura: *"Parola di mozzo."*
@@ -78,6 +103,7 @@ l'avventura. E ogni libro contiene una scena in cui la mamma, da casa, legge la 
 ## Regole della serie (per non contraddirsi)
 
 1. Sardina non cresce d'età tra un libro e l'altro (come i personaggi seriali classici). Ha "quasi nove anni" sempre.
+0. I personaggi sono umani. Niente animali parlanti: il gatto Pescecane miagola e basta.
 2. La ciurma dell'Acciuga Nera è fissa (v. `personaggi.md`); nuovi personaggi entrano per un libro solo.
 3. Capitana Murena non viene mai catturata definitivamente: scappa sempre "per un pelo di murena".
 4. Nessun libro finisce senza una lettera alla mamma o una scena con lei.
