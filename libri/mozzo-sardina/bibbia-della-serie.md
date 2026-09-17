@@ -17,8 +17,24 @@ da porto, come si usa davvero tra la gente di mare.
 ## Origine
 
 La storia nasce da un racconto orale: l'epopea di Mozzo Sardina che il papà di Francesco gli raccontava
-da bambino. La serie vuole conservare quello spirito — una storia "da letto", inventata a puntate, dove
-ogni sera finisce con un "e poi? — e poi te lo racconto domani".
+da bambino, **a pezzi, sulle seggiovie**, durante inverni interi di sci. Ogni corsa un episodio, ogni
+arrivo in cima un "e poi te lo racconto alla prossima". Una volta uno sconosciuto seduto con loro,
+arrivato in cima, chiese al papà: *"E poi? Cosa succede?"*
+
+Questo aneddoto va usato in tre modi:
+
+1. **Dedica / nota dell'autore** in apertura del Libro 1 (mezza pagina, vera, senza retorica):
+   la storia è nata in seggiovia, e uno sconosciuto ha voluto sapere come andava a finire.
+2. **Formato dei capitoli**: ogni capitolo è "una corsa di seggiovia", cioè 8-10 minuti di lettura
+   ad alta voce (600-900 parole) e finisce sempre con un gancio. Il test di ogni capitolo è: un
+   estraneo chiederebbe "e poi?".
+3. **Possibile cornice narrativa** (da decidere): un papà e un bambino su una seggiovia, e la storia
+   di Sardina che comincia. Rischio: appesantisce. Alternativa più leggera: solo la dedica, e
+   la cornice la teniamo per l'ultimo libro della serie, come chiusura del cerchio.
+
+Il racconto originale sopravvive **a flash**: frammenti senza ordine. Li raccogliamo in
+`flash-di-papa.md`, prima di inventare qualunque cosa. Regola: **un flash autentico batte sempre
+un'invenzione**; le invenzioni servono a unire i flash, non a sostituirli.
 
 Per questo la serie ha un omaggio interno: **Nonno Sgombro**, il nonno di Sardina, è un vecchio
 marinaio che gli racconta storie di mare proibite dalla mamma. È lui che accende il sogno.
