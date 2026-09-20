@@ -32,8 +32,14 @@ Contiene **tutti i sottosistemi Maggotkin in un'unica lista**, ognuno in version
    obiettivi lontani, screening veloce. La cosa che manca a quasi tutte le altre build.
 6. **Gestione dei blob** — 2×20 Plaguebearers: screening, tappi, obiettivi.
 7. **Buff/debuff da posizionare** — Bilepiper (+2 run/charge a un demone, o D3 mortali a
-   chi si allontana), Witherstave (nemici entro 12" ritirano i 6 per colpire = anti-crit),
-   Febrile Frenzy (+1 Attacks su 3+).
+   chi si allontana), Witherstave (versione attuale: un'unità nemica che ha caricato ed è
+   in combat, su 3+ ha -1 Damage alle armi da mischia per il turno), Febrile Frenzy
+   (+1 Attacks su 3+).
+
+**Nota combo rianimazione**: è il Great Unclean One con **Locus of Nurgle** (fase
+movimento, 1/turno) a riportare in gioco un'unità demone distrutta di 3+ modelli con metà
+dei modelli, entro 6" da lui **o da un Gnarlmaw** (>9" dai nemici). Horticulous serve a
+portare l'albero dove vuoi la rianimazione. Dettagli in `guida-pilotaggio-tallyband-demoni.md`.
 
 È anche **perdonante**: 172 wounds, ward diffusi, Emerald Lifeswarm (Primal Energy) per
 curare, ridondanza ovunque (2 caster, 2 blob, 2 unità di drones). Gli errori costano poco.
@@ -46,7 +52,7 @@ curare, ridondanza ovunque (2 caster, 2 blob, 2 unità di drones). Gli errori co
 | Preghiere | no | sì (Belga) | sì (Belga + Blightkings SoA) |
 | Mobilità | 3 Drones | 6 Drones + tricks Gnarlmaw | nessuna |
 | Punch dei blob | alto (2× Poxbringer combo) | medio (Febrile Frenzy) | basso (blob solo tappo) |
-| Difesa castello | ward + corpi | + Witherstave anti-crit | + screens sacrificabili |
+| Difesa castello | ward + corpi | + Witherstave (-1 Dmg ai charger) | + screens sacrificabili |
 | Complessità di pilotaggio | bassa | media | alta |
 
 ## Acquisti per l'utente (partendo dalla sua lista demoni)
