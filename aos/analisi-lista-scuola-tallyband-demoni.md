@@ -61,3 +61,22 @@ Consiglio condiviso: è la palestra giusta. Stesso archetipo che l'utente già g
 sottosistemi della fazione presenti, pochissimi acquisti, e una volta imparata si può
 evolvere verso la build alla Mestyanek aggiungendo il pacchetto mortal (Blightkings SoA,
 Pox-Wretches, Harbinger) se serve più tech.
+
+## Roadmap di apprendimento (l'utente ha già tutti i modelli)
+
+Stessa lista, senza modifiche, per almeno 10 partite: il valore sta nella ripetizione.
+
+- **Partite 1-2 — deployment e movimento.** Solo fondamentali: blob davanti, mostri
+  dietro, mai farsi caricare per primi con Rotigus/GUO. Ignorare le finezze.
+- **Partite 3-4 — economia della malattia.** Scelta del Plague Progenitor al deployment
+  (Health bassa, o l'unità che l'avversario vorrà curare), sequenza chant di Belga,
+  quando conviene il Weeping Flux.
+- **Partite 5-6 — Gnarlmaw e Horticulous.** Dove piantare il secondo albero, usare
+  run+charge dall'aura, teletrasporto per seguire il fronte.
+- **Partite 7-8 — Drones e battle tactics.** Giocare Flanking Firestorm di proposito,
+  rubare obiettivi laterali, screening veloce.
+- **Partite 9-10 — rigiocare i matchup persi** e decidere se restare demoni o innestare
+  il pacchetto mortal.
+
+Cosa resta difficile a prescindere dalla lista (ed è il vero programma di studio):
+screening, gestione del doppio turno, scoring delle tactics, timing del commit dei mostri.
