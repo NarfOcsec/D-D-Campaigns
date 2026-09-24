@@ -154,6 +154,44 @@ neutralizzati, viaggia a ~10-15. Il resto lo fanno gli obiettivi che non ti può
    Strike di Belthanos. Ricordaglieli pure: meglio un avversario onesto che una
    rivincita contestata.
 
+## Difendere il retro del castello
+
+Chi può arrivarti dietro: (a) **teleport con vincolo >9" dalle tue unità** — Shadowcreep
+degli Spites (atterra entro 3" da un terreno qualsiasi), Realmroot Guide di Durthu e
+The Land Awakens (entro l'overgrowth); (b) **volatori liberi** — Belthanos M12 e
+Alarielle M14 scavalcano il muro senza teleport; (c) **ambush abilitati dai token** —
+Merciless Ambush di Drycha richiede un terreno CON token entro il tiro di carica, e un
+bosco nuovo (Reclaimed by Nature) si pianta solo a >3" da unità nemiche e obiettivi.
+
+Contromisure, in ordine di importanza:
+
+1. **L'ombra dei 9"**: ogni teleport atterra a >9" da QUALSIASI tua unità — anche da un
+   singolo eroino da 90 punti. Tieni la coda del castello a ~9" dal tuo bordo e la
+   striscia dietro è geometricamente chiusa. Un presidio non deve essere forte: deve
+   esistere.
+2. **Controlla il terreno di casa**: Ever Growing non può mettere token su un terreno
+   controllato da te → niente token dietro = niente ambush di Drycha e niente
+   overgrowth per Realmroot/Land Awakens nel tuo retro. Un modello vicino al terreno
+   basta (ed è lo stesso terreno-hideout: doppio motivo per presidiarlo).
+3. **Nega il bosco nuovo**: >3" da unità nemiche → corpi larghi (drones, gnarlmaw che
+   cammina, ampiezza dei blob) tolgono le piazzole. Se un bosco spunta sul tuo fianco è
+   l'allarme: il turno dopo arriva qualcosa — porta un'unità a ridosso per restringere
+   l'atterraggio.
+4. **La matematica della carica post-teleport**: chi atterra a 9"+ carica con 2D6 ≥ 9
+   (~28%; ~42% con il +1 di Shadowcreep). Chi atterra e fallisce muore nel tuo turno:
+   fai in modo che il retro sia sempre in raggio di counter-charge del castello.
+5. **Contro i volatori niente negazione, solo sterilità + letalità**: dietro non deve
+   esserci niente da prendere (casa presidiata dall'unità rigenerata col Locus o da una
+   unità di drones di ritorno dal round 3-4) e chi si tuffa resta isolato: Belthanos
+   che atterra dietro va multi-caricato e ucciso nella finestra prima della fuga di
+   fine turno; il Bilepiper in modalità nemico (D3 mortali a chi si allontana) tassa
+   chiunque provi a disimpegnarsi.
+6. **Il fugitive sta al centro geometrico** del castello: un dive alle spalle non deve
+   mai trovarlo sul bordo posteriore.
+
+Dal round 3 (token cresciuti, stagione Dwindling disponibile) assegna esplicitamente
+un "guardiano di casa" a ogni turno: è un ruolo, non un ripiego.
+
 ## I 6 errori che ti fanno perdere
 
 1. Inseguirlo (Alarielle M14, Belthanos M12: il kiting è suo, stare è tuo).
