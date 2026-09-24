@@ -1,121 +1,112 @@
 # Matchup: Tallyband demoni vs Sylvaneth "Lords of the Clan" (Alarielle)
 
-> Piano di gioco contro la lista dell'amico dell'utente: Alarielle (620, General),
-> Durthu (+Glamourweave, Realmroot Guide), Drycha, Belthanos, Warsong Revenant,
-> Arch-Revenant, Gossamid Archers, Spite-Revenants, Awakened Wyldwood. 5 drops, 89 wounds.
-> Tactic: Burning for Vengeance, Blazing Onslaught.
-> Warscroll verificate su Wahapedia aos4 il 24/09/2026. Nota: alcuni punti della lista
-> (Warsong 190 vs 170, Arch-Rev 90 vs 110) non combaciano con Wahapedia — probabile
-> divergenza di data version, non cambia il piano.
+> Piano contro la lista dell'amico: Alarielle (620, General), Durthu (+Glamourweave,
+> Realmroot Guide), Drycha, Belthanos, Warsong Revenant, Arch-Revenant, Gossamid
+> Archers, Spite-Revenants, Awakened Wyldwood. 5 drops, 89 wounds.
+> **v2 — riverificata il 24/09/2026 con citazioni verbatim da Wahapedia.**
 
-## Verdetto
+## Errata rispetto alla v1 (importante)
 
-**Matchup favorevole sui fondamentali.** Loro: 89 ferite in 9 attivazioni, Control
-bassissimo (Alarielle 10, mostri 5, fanti 1). Tu: 172 ferite e blob da Control ~21.
-**Non possono flipparti un obiettivo con i numeri: per farti punti devono sterminare
-unità.** Tu vinci facendo il tuo gioco (castello + drones + Locus); perdi solo se ti
-fai smontare i pezzi fuori posizione uno alla volta.
+Su Wahapedia esistono DUE "Lords of the Clan": la **battle formation** e un **Army of
+Renown** omonimo. La v1 aveva attribuito alla lista le regole dell'AoR (Durthu
+"dormiente", ambush Roused to Fury, 2 boschi extra al deployment): **sbagliato** —
+l'AoR ha un roster ristretto che non ammette Alarielle/Drycha/Belthanos né i Revenants.
+L'amico gioca la battle formation, che fa una cosa sola:
 
-## Il loro motore (da sapere a memoria)
+> **Lords of the Clan (battle formation)**: nell'ability "Endless Growth" non tiri il
+> D3 per i bersagli MONSTER: li curi flat di 3.
 
-- **Token/overgrowth**: i terreni con token "overgrown" generano l'area di crescita:
-  0-2 token = 6", 3-5 = 9", 6-8 = 12", 9+ = tutto il tavolo. Ogni round (Ever Growing)
-  il bosco contagia il terreno più vicino **non controllato da te** (i tuoi Gnarlmaw
-  sono immuni). Con la formazione partono con **fino a 3 Wyldwood** (Elder Authority).
-- **Dormant Heroes + ROUSED TO FURY**: un MONSTER (quasi sempre Durthu) parte in
-  riserva "dormiente". Nella **TUA fase movimento**, se una tua unità finisce entro 9"
-  da un Wyldwood, il mostro spunta entro 9" da lei (wholly entro 6" dal bosco, non in
-  combat), **prende 6 danni** e **il bosco viene rimosso**.
-- **Teleport**: Realmroot Guide (1/partita: Durthu + 1 amico entro combat range si
-  teletrasportano nell'overgrowth a >9" dai nemici) · Drycha **Merciless Ambush**
-  (fase carica: si piazza a ½" da una tua unità entro [tiro di carica]" da un terreno
-  con token — conta come carica) · Belthanos **Huntmaster's Strike** (dopo aver
-  caricato si teletrasporta a >6" dai nemici nell'overgrowth) · Spites **Shadowcreep**.
-- **Cure**: Alarielle **Lifebloom 2D6/turno** · Endless Growth (D3 heal o ritorno
-  modelli, 1/turno) · The Land Awakens (a fine turno un'unità Revenant/Dryads distrutta
-  torna a metà modelli) · Goddess of Life (1/partita Alarielle risorge con 8 danni
-  addosso) · Song of the Lost (heal 3 ai monster con chant 8+).
-- **Strike-first**: Fury of the Forest — una loro unità wholly nell'overgrowth che
-  combatte **una sola** tua unità colpisce per prima nella TUA fase di combat.
-- **Stagioni di Alarielle** (1/round, mai ripetuta): +1 cast/chant 12" (Reaping),
-  retreat+charge (Dwindling), Creeping Dread ×3, token liberi (Burgeoning).
+E "Endless Growth" (fine di ogni turno, 1/turno army) bersaglia **OGNI unità Sylvaneth
+wholly nell'overgrowth**. Quindi: niente imboscata dal bosco, niente boschi extra al
+deployment, MA una macchina di cure sui mostri molto più costante: ogni suo mostro
+nell'overgrowth si ripara 3 a fine di ogni turno, più Lifebloom 2D6 su Alarielle, più
+Song of the Lost (heal 3 ai monster con chant 8+), più The Land Awakens (i Revenants
+distrutti tornano a metà a fine del suo turno).
 
-## Le minacce, coi numeri
+Anche "Walk the Hidden Paths" (teleport bosco-bosco) NON ce l'ha: è di un'altra
+formazione (Wargrove of the Burgeoning). I suoi teleport sono solo: Realmroot Guide
+(Durthu + 1, una volta a partita, nell'overgrowth >9" dai nemici), Merciless Ambush di
+Drycha (carica-teleport da terreno con token), Huntmaster's Strike di Belthanos
+(**a fine turno**, se ha caricato: via a >6" dai nemici) e Shadowcreep degli Spites.
+
+## Verificato e confermato (verbatim)
+
+- **Warsong Revenant**: PRIEST(1); "Friendly SYLVANETH units have WARD (6+) while
+  wholly within 12". **Subtract 1 from ward rolls for enemy units while they are within
+  12" of this unit**" → resta KILL PRIORITY #1.
+- **Alarielle**: Lifebloom "Heal (2D6) this unit" 1/turno; Metamorphosis (7) 2D3
+  mortali a 12" + token; Goddess of Life: torna "with 8 damage points allocated (ward
+  rolls cannot be made for those damage points)" nell'overgrowth >9" dai nemici.
+- **Fury of the Forest**: strike-first solo se la sua unità è wholly nell'overgrowth
+  **ed è in combat con UNA sola unità nemica** → il multi-ingaggio la spegne.
+- **Overgrowth**: raggio dai terreni con token: 0-2 token = 6", 3-5 = 9", 6-8 = 12",
+  9+ = tutto il tavolo. Parte con 1 bosco; Reclaimed by Nature ne aggiunge (max 3 sul
+  tavolo, >3" da obiettivi e nemici, >12" da altri boschi). Ever Growing contagia il
+  terreno più vicino non tuo; i Gnarlmaw sono immuni ai token.
+- **Lato tuo, tutto confermato verbatim**: Wracked with Disease (fine di OGNI turno:
+  D3 a ogni unità nemica DISEASED), Infect (**7"**: auto se in combat con una tua
+  unità, altrimenti 4+), Spread + bomba del Tallyband sul progenitor, Desperate
+  Remedies ("non cura: rimuove il DISEASED"), Burst Pustules, **Locus of Nurgle**
+  (fase movimento tua, 1/turno: unità demone distrutta partita con 3+ modelli torna
+  con metà modelli **arrotondati per eccesso** entro 6" dal GUO o da un Gnarlmaw,
+  >9" dai nemici → 2 droni su 3, 10 PB su 20).
+
+## Il cuore del matchup (corretto): è una guerra alle cure
+
+La sua lista regge perché ricuce: 3 flat per mostro nell'overgrowth a fine di ogni
+turno + 2D6 su Alarielle + heal 3 dal prete + ritorni dei Revenants. Tu hai tre leve
+che trasformano tutto questo in niente:
+
+1. **La malattia come anti-cura.** Se un suo mostro è DISEASED, qualsiasi cura su di
+   lui **non cura: rimuove solo il DISEASED** (Desperate Remedies). Quindi il ciclo è:
+   Plague Wind (12") o Infect (7") sul mostro → lui è costretto a spendere Endless
+   Growth per pulirlo (zero heal) → tu lo ri-ammali. Ogni turno in cui resta ammalato:
+   D3 gratis da Wracked. La sua formazione, contro di te, cura molto meno di quanto
+   sembri.
+2. **Deluge di Rotigus**: niente cure NÉ ritorno di modelli nemici entro 18" fino al
+   tuo turno dopo — spegne Lifebloom, Endless Growth, Land Awakens e il topping della
+   Goddess of Life. Va lanciato **nel turno in cui concentri il danno**, non a caso.
+3. **Round 1 del Tallyband**: il progenitor non si cura comunque.
+
+## Minacce (numeri confermati)
 
 | Pezzo | Profilo | Pericolo | Contromisura |
 |---|---|---|---|
-| **Durthu** | W14, 3+, **niente ward**, Glamourweave (1 reroll hit/wound/save a fase) | Guardian Sword 5A 3+/2+/R2(**R3 anti-monster**)/D4: ~7-8 danni al GUO per attivazione; Groundshaker: strike-last alla tua fanteria su 3+ | **Witherstave** (-1 Dmg da 4 a 3 = -25%), impantanarlo nei blob, poi GUO+disease: senza ward muore in ~1,5 round |
-| **Drycha** | W12, 3+, M10 | **Swarm of Spites 20A** 4+/4+/D1 Crit(Mortal) → macina i blob; spell 7: D3 mortali a 3 unità entro 12"; niente run/retreat entro 9" da lei (occhio ai drones!) | Cloud of Flies (-1 hit sul tuo obiettivo) + **Blunting Blight** (niente critici = niente mortali dallo sciame) |
-| **Belthanos** | W14, 3+, **niente ward**, M12 fly | carica (glaive D3 in carica + D3 mortali con reposition), poi **scappa via col teleport** | va ucciso NEL combat in cui carica: multi-ingaggio, Febrile Advance (+3" pile-in); oppure lasciagli menare un blob e rigenera col Locus |
-| **Warsong Revenant** | **W7, 5+/ward 6+** | **-1 ai TUOI tiri ward entro 12"** (il tuo esercito vive di ward 5+!) + ward 6+ ai suoi + unico PRIEST (Song of War: +1 Rend) | **KILL PRIORITY #1**: Cysts + Agonising Vomiting + carica drones appena si avvicina |
-| **Alarielle** | W16, 4+/ward 5+, M14 fly, Wizard(3) | Metamorphosis (7): 2D3 mortali a 12"; Battering Ram; cure infinite | **Deluge di Rotigus spegne Lifebloom/Endless Growth/Land Awakens entro 18"**; Control 10: da sola non ti prende un obiettivo — ignorabile finché non commette |
-| **Gossamid/Spites** | 5×W2, 5+ | tagger di tattiche, chip, tornano a metà (Land Awakens) | Progenitor (auto: Health 2), Wracked, drones; il Deluge blocca anche i ritorni |
-| **Wyldwood** | terreno | D3 su 2+ ai nemici entro 3" (1/fase combat); visibilità limitata per chi è wholly entro 1" | starci lontano coi pezzi che contano, o baitarlo (sotto) |
+| Durthu | W14, 3+, no ward, Glamourweave (1 reroll hit/wound/save a fase), M6 | Guardian Sword 5A 3+/2+/R2 (R3 anti-monster)/D4 ≈ 7-8 danni al GUO; Groundshaker: strike-last su 3+ alla tua fanteria non-fly; +2 in carica se finisce vicino a un combat di un altro suo hero; 1 teleport a partita | Witherstave (-1 Dmg), impantanarlo, GUO + malattia: senza ward cade in ~1,5 round |
+| Drycha | W12, 3+, M10, Wizard(1) | Swarm of Spites 20A 4+/4+ Crit(Mortal) sui blob; Enrage the Spites (7): D3 a 3 unità; niente run/retreat entro 9" da lei; carica-teleport dai terreni con token | Blunting Blight (niente critici), Cloud of Flies, drones lontani da lei |
+| Belthanos | W14, 3+, no ward, M12 fly | carica forte + Rhythm of the Chase (D3 mortali + reposition); **scappa solo a FINE turno** → nel combat in cui carica è lì e si mena | multi-ingaggio + Febrile Advance; ucciderlo in quella finestra o accettare il grind |
+| Warsong | W7, 5+/6+ | -1 ai TUOI ward entro 12" + ward 6+ ai suoi + unico prete | ucciderlo APPENA entra in raggio: Cysts, Vomiting, carica drones |
+| Alarielle | W16, 4+/5+, M14 fly, Wizard(3) | Metamorphosis, Battering Ram, cure | Control 10: non ti flippa un obiettivo. Uccidila solo sotto Deluge con malattia addosso; ricorda la seconda vita (torna con 8 danni già allocati, niente ward su quelli) |
+| Gossamid/Spites | 5×2W, 5+ | tagger tattiche, tornano a metà | Progenitor sui Gossamid (Health 2 = automatico), Wracked, drones |
 
-## I tuoi tre assi
+## Piano
 
-1. **Heal-lock.** La loro lista regge perché ricuce 8-12 ferite a round. Tu hai il
-   tridente: **Deluge** (niente cure/ritorni nemici entro 18" fino al tuo turno dopo),
-   **Desperate Remedies** (le cure che passano rimuovono DISEASED invece di curare),
-   **Tallyband** (il progenitor non si cura nel round 1). Tempizza il Deluge nel turno
-   in cui concentri il danno su Alarielle o in cui lui ha committato i mostri.
-2. **Chip su 89 ferite.** Ogni unità DISEASED prende D3 a fine di OGNI turno. Quattro
-   unità ammalate = ~8-10 mortali/round che ignorano 3+ e Glamourweave. Plague Wind sui
-   mostri (12"), Infect automatico in mischia, Cysts di Belga. I supporti (Warsong W7,
-   Arch-Rev W6, Gossamid, Spites) evaporano.
-3. **Matematica del Control.** Blob fermo sul punto = ~21 Control con -1 a colpire.
-   Loro massimo: Alarielle 10. Devono ucciderti le unità per farti punti: costringili a
-   venire dentro il tritacarne.
+- **Deployment**: tu 4 drop, lui 5 → scegli tu. Dagli il primo turno: al round 1 il suo
+  overgrowth è un cerchio di 6" attorno a un bosco e Durthu è a M6 — la sua alpha non
+  esiste; tu resti castellato e ti giochi il doppio turno sul round 2. Castello al
+  centro, blob larghi davanti, mostri a ~4" dietro, Belga a >12" dal probabile percorso
+  del Warsong. Progenitor: **Gossamid Archers** (auto).
+- **Primi turni**: ammala i mostri (Plague Wind 12", Infect 7") e tienili ammalati.
+  Drones a taggare per Siege of Ashes (2 unità appena oltre la linea, entro 3" tra
+  loro). Occhio alla crescita dei token: il suo raggio d'azione cresce ogni round —
+  ciò che è "sicuro" al turno 1 non lo è al turno 3.
+- **Mid game**: lui DEVE venire dentro (i tuoi blob da Control ~21 non si flippano).
+  Multi-carica sempre (nega lo strike-first), Witherstave sul charger, Blunting Blight
+  su Drycha, GUO a duellare Durthu/Belthanos. Se cade un blob: Locus, 10 tornano sul
+  Gnarlmaw. Nel turno del kill su Alarielle: prima Deluge, poi tutto il danno.
+- **Kill order**: ① Warsong ② Arch-Revenant ③ Gossamid/Spites ④ Durthu/Belthanos quando
+  committano ⑤ Drycha ⑥ Alarielle (due volte, o mai: ignorarla è spesso corretto).
+- **Tattiche**: le tue come da guida (Siege of Ashes quasi gratis col castello;
+  Flanking Firestorm coi drones + unità rigenerate). Le sue: *Burning for Vengeance*
+  nomina un TUO hero "fugitive" → proteggi Horticulous/Bilepiper dietro i blob;
+  l'Affray gli chiede unità nei 4 quarti a >9" dal centro → le unità sparse sono cibo.
+  *Blazing Onslaught* (danno alla stessa unità in 3 fasi) è dura da negare: ignorala.
 
-## Piano partita
+## Come si perde
 
-**Deployment (tu 4 drop, lui 5: finisci prima e SCEGLI).** Dagli il primo turno: la sua
-alpha al round 1 è debole (token ancora corti, Durthu dormiente si attiva solo nella TUA
-fase movimento), tu sei fermo comunque, e ti tieni la chance del doppio turno in testa
-al round 2. Castello al centro, **tutto a >9" dai Wyldwood** tranne ciò che vuoi usare
-come esca. Progenitor: **Gossamid Archers** (Health 2 = automatico; girano vicino agli
-eroi per tirare a 12" → lo Spread contagia i supporti). Guarda cosa mette in riserva al
-deployment: quello è l'ambusher (quasi sempre Durthu).
-
-**La mossa che ribalta il matchup — baita il Roused to Fury.** L'ambush si innesca solo
-nella TUA fase movimento. Manda **una unità di drones** (M8 fly, sacrificabile,
-rigenerabile col Locus) a 8,9" da un bosco: se lui attiva l'ambush, il suo mostro
-**prende 6 danni gratis**, **il bosco viene rimosso** (la rete si restringe), e spunta
-dove hai deciso tu, davanti al castello, coi drones che se ne volano via. Hai convertito
-la sua arma migliore in danno gratuito + un pezzo di mappa in meno. Se NON la attiva,
-i drones taggano e scappano. Win-win.
-
-**Mid game.** Lui deve venire a scavarti fuori: Fury of the Forest si nega
-**multi-caricando** (vale solo se la sua unità combatte UNA tua unità). Witherstave sul
-charger grosso, Blunting Blight su Drycha, Frenzy sul blob che deve rispondere. Ogni
-mischia = Infect automatico = D3/turno in più. Il GUO duella Durthu/Belthanos (nessuno
-dei due ha ward). Se perdi un blob: **Locus**, tornano in 10 sul Gnarlmaw. Tieni un
-occhio sulla casa: Belthanos/Spites raidano — il Gnarlmaw che cammina + un'unità
-rigenerata coprono.
-
-**Kill priority**: ① Warsong ② Arch-Revenant ③ Gossamid/Spites ④ Durthu/Belthanos quando
-committano ⑤ Drycha ⑥ Alarielle solo con Deluge attivo e danno concentrato — altrimenti
-ignorala: 620 punti che non ti flippano un obiettivo.
-
-**Tattiche (2 carte, 3 stadi Affray/Strike/Domination, 5 VP a stadio, max 1 stadio per
-carta a fine di ogni tuo turno).**
-- Tue: *Siege of Ashes* Affray = 2 unità wholly fuori dal tuo territorio, entro 6" da
-  esso, entro 3" tra loro → le due unità di drones affiancate appena oltre la linea,
-  turno 1. *Flanking Firestorm* Affray = 2 obiettivi/terreni non-faction controllati,
-  ciascuno contestato da una tua unità a >6" dal tuo territorio → drones + unità
-  rigenerata dal Locus.
-- Sue: *Burning for Vengeance* nomina un TUO hero "fugitive" (stadi successivi = fargli
-  danno/ucciderlo) e l'Affray gli chiede un'unità in ogni quarto grande a >9" dal
-  centro → punisci le unità sparpagliate (drones) e proteggi il probabile fuggitivo
-  (Horticulous/Bilepiper: tienili coperti). *Blazing Onslaught* (danno alla stessa tua
-  unità in 3 fasi diverse): difficile da negare, non impazzirci.
-
-## Come si perde questa partita (evita)
-
-1. Inseguire Belthanos/Gossamid per il tavolo: kiting è il loro gioco, il tuo è stare.
-2. Avvicinarti ai boschi senza volerlo: regali l'ambush di Durthu alle sue condizioni.
-3. Mandare i drones entro 9" di Drycha senza piano: niente retreat = drones morti.
-4. Caricare con UNA unità sola dentro l'overgrowth: strike-first e la perdi gratis.
-5. Sprecare il Deluge in un turno in cui non c'era niente da curare.
-6. Dimenticare che Glamourweave dà 1 solo reroll a fase: il volume (blob + mortali) lo satura.
-7. Lasciare Belga/eroi a 12" da Alarielle (Metamorphosis 2D3) o dal Warsong (-1 ward).
+1. Inseguirlo: il kiting è il suo gioco (Alarielle M14, Belthanos M12), stare è il tuo.
+2. Fare danno "normale" ai mostri senza prima ammalarli: le cure lo riassorbono.
+3. Sprecare il Deluge in un turno senza kill pressure.
+4. Cariche singole dentro l'overgrowth (strike-first regalato).
+5. Drones entro 9" da Drycha (niente retreat) o eroini entro 12" dal Warsong.
+6. Sottovalutare la crescita dei token nel late game (raggio fino a tutto il tavolo).
