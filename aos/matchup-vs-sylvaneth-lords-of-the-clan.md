@@ -192,6 +192,19 @@ Contromisure, in ordine di importanza:
 Dal round 3 (token cresciuti, stagione Dwindling disponibile) assegna esplicitamente
 un "guardiano di casa" a ogni turno: è un ruolo, non un ripiego.
 
+## Timing del controllo obiettivi (regola verificata)
+
+Il controllo si determina **al deployment e alla FINE di ogni turno**, ed è **sticky**
+(resta tuo finché l'avversario non lo riconquista a un check di fine turno). Contestare
+= obiettivo entro combat range (3"). Conseguenze pratiche:
+1. Blob schierato sopra l'obiettivo di casa = lo controlli dal deployment: Cloud of
+   Flies (-1) attivo già nel suo primo turno.
+2. Il -1 non si spegne a metà turno: quando lui carica il tuo punto, il punto resta tuo
+   per tutto il suo turno — per flipparlo a fine turno dovrebbe superare ~21 Control.
+3. Unica finestra senza -1: il turno in cui TU assalti un punto che LUI già controlla
+   (le risposte della sua guarnigione in quel turno colpiscono senza -1). La guarnigione
+   che può permettersi è piccola: danno modesto, e a fine turno il punto è tuo.
+
 ## Gestire la crescita del creeping overgrowth
 
 L'overgrowth non fa danni e non prende obiettivi: è un abilitatore. Non si ferma, si
