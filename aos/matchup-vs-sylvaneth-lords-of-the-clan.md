@@ -115,6 +115,15 @@ ripulito, round 5.
 5. **Raid sulla tua casa (Spites/Gossamid/Belthanos)**: il Gnarlmaw che cammina + una
    unità da Locus coprono la casa. Gli Spites che teleportano (Shadowcreep) devono
    arrivare >9" da te: corpi larghi = niente spazio.
+6. **Fortino sul punto centrale** (schermi attorno al marker + mostro sopra, che nega
+   la contestazione e il -1 al blob): NON incastrare il blob sul marker — assedio.
+   Carica gli schermi (muoiono a un'attivazione; il loro counter senza il tuo -1 vale
+   3-4 ferite), ammala il presidio attraverso il muro (Infect 7", Plague Wind, Cysts:
+   5-8 mortali/round su bersagli fermi che non possono curarsi), e vinci il resto del
+   tavolo coi drones mentre le sue carte si inceppano (vuole unità sparse nei quarti).
+   L'anello si scioglie in 1-2 turni; poi carichi il custode e il punto è tuo a fine
+   turno. Se il battleplan paga molto il centro dai primi round: primo turno tuo +
+   Gutpipes e il blob ci si siede PRIMA che il muro esista.
 
 ## Kill windows (matematica)
 
