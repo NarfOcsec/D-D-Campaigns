@@ -192,6 +192,30 @@ Contromisure, in ordine di importanza:
 Dal round 3 (token cresciuti, stagione Dwindling disponibile) assegna esplicitamente
 un "guardiano di casa" a ogni turno: è un ruolo, non un ripiego.
 
+## Gestire la crescita del creeping overgrowth
+
+L'overgrowth non fa danni e non prende obiettivi: è un abilitatore. Non si ferma, si
+rende inutile. Timeline attesa: R1-2 = 6-9" attorno a 1-2 punti; R3 = 9-12"; dal R4
+assumi che copra tutto e smetti di pensarci come geografia.
+
+**Mitigazioni attive (rallentare i token):**
+1. Ever Growing non tokenizza terreni controllati da te, e va sempre sul terreno più
+   vicino al bosco: presidia quel terreno nei round 1-2 (drones o lembo di blob).
+2. Nega le piazzole dei boschi nuovi (>3" da tue unità/obiettivi, >12" da altri boschi):
+   gnarlmaw che camminano + drones larghi.
+3. Il token di Metamorphosis arriva solo se la spell uccide: niente unità a 1-2 ferite
+   entro 12" da Alarielle.
+
+**Contro che ignorano l'area:** cure → disease-lock; strike-first → multi-carica
+(o ingaggio 1-vs-1 solo col blob-incudine); teleport → atterrano comunque a >9" da
+qualsiasi tua unità, anche con tutto il tavolo verde; Creeping Dread → vale solo a
+>12" dai tuoi HERO, il castello è immune di default. Unico danno fisico: il bosco
+stesso (D3 su 2+ entro 3"): mai combattere attaccati a un bosco.
+
+**Routine di inizio round:** chiedi i token (falli marcare con un dado), dichiara il
+raggio ad alta voce, guarda dove andrà il prossimo token, verifica l'ombra dei 9" su
+retro/casa/fugitive.
+
 ## I 6 errori che ti fanno perdere
 
 1. Inseguirlo (Alarielle M14, Belthanos M12: il kiting è suo, stare è tuo).
