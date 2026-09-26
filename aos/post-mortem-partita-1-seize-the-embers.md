@@ -42,7 +42,11 @@ Prima di ogni partita, 2 minuti sul battleplan con tre domande:
 
 ## Report completo del giocatore
 
-- Primo turno preso da NOI (contro il default del piano).
+- Primo turno preso da NOI (contro il default del piano). **L'avversario ha incassato
+  un doppio turno**: due fasi di combattimento consecutive sui blob senza counter in
+  mezzo — è lì che si concentrano crollo del fronte, morte del fugitive e drones
+  costretti in emergenza. Catena causale: primo turno nostro -> opzione doppio a lui ->
+  domino. Conferma la correzione n°4 (secondo di default).
 - Carte: **20 a 5 per lui** — Burning for Vengeance completata (il **fugitive è morto**)
   + Affray di Blazing Onslaught; hideout non preso (lo avrebbe preso al 5° turno).
 - I blob distrutti in più turni dai mostri grossi (Alarielle/Durthu/Belthanos).
