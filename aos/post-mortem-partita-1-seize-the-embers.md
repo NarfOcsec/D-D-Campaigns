@@ -40,8 +40,31 @@ Prima di ogni partita, 2 minuti sul battleplan con tre domande:
 3. Qual è il VP/turno massimo mio e suo se entrambi giochiamo perfetto? → se il suo
    tetto è più alto del mio con il piano di default, il piano va cambiato al tavolo.
 
-## Dati mancanti (da completare col report del giocatore)
+## Report completo del giocatore
 
-- Primo turno / doppi turni?
-- Fugitive morto? Hideout preso? (quota carte dei suoi 50)
-- Perdite e turni delle perdite; il Deluge è partito? Le malattie giravano?
+- Primo turno preso da NOI (contro il default del piano).
+- Carte: **20 a 5 per lui** — Burning for Vengeance completata (il **fugitive è morto**)
+  + Affray di Blazing Onslaught; hideout non preso (lo avrebbe preso al 5° turno).
+- I blob distrutti in più turni dai mostri grossi (Alarielle/Durthu/Belthanos).
+- **Il Deluge è sempre partito** (la magia ha funzionato).
+- Drones "inutili": non hanno fatto né stadi né corriere.
+
+## Autopsia finale
+
+Il gap di 20 punti = **15 di carte + ~9 di corriere**. I combattimenti sono andati come
+da piano (i blob sono l'affitto: comprano turni); a mancare è stato il motore VP.
+Sconfitta da scoring, non da tavolo.
+
+## Correzioni per la rivincita (nessun cambio lista)
+
+1. **Rituale di fine turno**: prima di passare, leggere le 2 carte ad alta voce e
+   completare uno stadio se disponibile. Sempre.
+2. **Drones = solo VP** (stadi o corriere). Mai usati in difesa. Se muoiono facendo
+   punti, il Locus li rifà: è il design. "Drones fermi" = spia rossa a metà partita.
+3. **Il fugitive non muore**: quando il fronte crolla, evacua (angolo, fuori LoS),
+   anche a costo di non usarlo più. Vale 10-15 VP.
+4. **Primo turno: secondo di default**, salvo il check da 10 secondi (VP dal round 1 +
+   obiettivo rubabile nel suo T1).
+5. **Aprire la finestra quando i mostri si incollano ai blob**: Infect + Wracked +
+   Cysts + counter del GUO. I mostri devono uscire dal grind ammalati e mezzi rotti,
+   non gratis.
